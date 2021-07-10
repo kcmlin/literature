@@ -1,0 +1,91 @@
+# Measurement {#measurement}
+
+## February 2021
+
+* Bovin MJ, Kimerling R, Weathers FW, et al. Diagnostic accuracy and acceptability of the primary care posttraumatic stress disorder screen for the diagnostic and statistical manual of mental disorders (fifth edition) among us veterans. JAMA Netw Open. 2021;4(2):e2036733.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamanetworkopen.2020.36733
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_02/Bovin. 2021.pdf
+    - **COMMENT**: I believe this is a newer screener (for DSM 5) that we don't currently use in our surveys. This study finds it’s just as effective as its predecessor.
+
+
+## January 2021
+
+* First MB GW, Maj M. An organization- and category-level comparison of diagnostic requirements for mental disorders in icd-11 and dsm-5. World Psychiatry. 2021;20(1):34-51.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/JAN/First. 2021.pdf
+    - **COMMENT**: Review of differences between diagnostic features in the ICD-11 and DSM-5. Relative to previous ICD/DSM versions, these two are the most in synch. We're a ways from using ICD-11 but worth stashing away for reference. 
+
+
+## November 2020
+
+* Cottrell EK, Hendricks M, Dambrun K, et al. Comparison of community-level and patient-level social risk data in a network of community health centers. JAMA Netw Open. 2020;3(10):e2016852.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamanetworkopen.2020.16852
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/NOV/Cottrell. 2020.pdf
+    - **COMMENT**:  Screening patients using community-level social risk scores is not a useful replacement for patient-level social risk scores. Social risk includes things like % poverty, % single-parent households, and % unemployed at the community level and things like food insecurity, housing insecurity, financial strain for patient level. Not super related to our work since communities differ for MIL populations but the paper includes some good discussion on social risk in general. 
+
+
+***
+
+* Marsch LA. Digital health data-driven approaches to understand human behavior. Neuropsychopharmacology. 2021;46(1):191-6.
+
+    - **LINK (doi)**: http://doi.org/10.1038/s41386-020-0761-5
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/NOV/Marsch. 2020.pdf
+    - **COMMENT**: From the abstract: "This manuscript provides a review of the state of the science of digital health data-driven approaches to understanding human behavior. It reviews methods of digital health assessment and sources of digital health data. It provides a synthesis of the scientific literature evaluating how digitally derived empirical data can inform our understanding of health behavior, with a particular focus on understanding the assessment, diagnosis and clinical trajectories of psychiatric disorders."
+
+
+## October 2020
+
+* Andrade C. Understanding the basics of meta-analysis and how to read a forest plot: As simple as it gets. J Clin Psychiatry. 2020;81(5).
+
+    - **LINK (doi)**: http://doi.org/10.4088/JCP.20f13698
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/OCT/Andrade. 2020.pdf
+    - **COMMENT**:  Another quick and nice overview by Andrade. This time on interpreting funnel plots in meta-analyses. 
+
+
+## September 2020
+
+* Andrade C. Mean difference, standardized mean difference (smd), and their use in meta-analysis: As simple as it gets. J Clin Psychiatry. 2020;81(5).
+
+    - **LINK (doi)**: http://doi.org/10.4088/JCP.20f13681
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Andrade. 2020.pdf
+    - **COMMENT**: A nice and simplified overview with examples of pooling differences for reporting in meta-analyses. 
+
+
+***
+
+* Wray NR, Lin T, Austin J, et al. From basic science to clinical application of polygenic risk scores: A primer. JAMA Psychiatry. 2020.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamapsychiatry.2020.3049
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/10.01.2020 - EndNote Test - DO NOT EDIT/Wray. 2020.pdf
+    - **COMMENT**: This paper describes polygenic risk scores. We probably don't see this too often but STARRS has put out some work in this area using Soldier data. For those who are interested in learning more about these types of measures, check out this paper. 
+
+
+## August 2020
+
+* Fabiano F, Haslam N. Diagnostic inflation in the dsm: A meta-analysis of changes in the stringency of psychiatric diagnosis from dsm-iii to dsm-5. Clin Psychol Rev. 2020;80:101889.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.cpr.2020.101889
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Fabiano. 2020..pdf
+    - **COMMENT**: After reviewing the literature, the authors concluded that there's no blanket increase in diagnostic inflation across newer versions of the DSM
+
+
+***
+
+* Lau. When online survey respondents only 'select some that apply'. 2020.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Lau. 2019..pdf
+    - **COMMENT**: Select all that apply questions may underestimate true prevalence, whereas forced choice types may not. Items appearing at the front of the list are more likely to be chosen. Useful things to consider for our surveys. Thanks to Jake for sharing!
+
+
+***
+
+* Abiero B, Beamer S, Roshwalb A, et al. Military health system access to care: Performance and perceptions. Mil Med. 2020;185(7-8):e1193-e9.
+
+    - **LINK (doi)**: http://doi.org/10.1093/milmed/usz463
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Abiero. 2020..pdf
+    - **COMMENT**: Analysis of patient-reported access to care surveys and administrative data. Moderate correlations between the two but highlights the importance of using both. Did not look specifically at BH but echoes what we learn from EPICONs.
+

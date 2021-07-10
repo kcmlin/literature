@@ -1,0 +1,146 @@
+# Analysis {#analysis}
+
+## April 2021
+
+* Arya S, Kaji AH, Boermeester MA. Prisma reporting guidelines for meta-analyses and systematic reviews. JAMA Surg. 2021.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamasurg.2021.0546
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_04/Arya. 2021.pdf
+    - **COMMENT**: Preferred reporting items for systematic reviews and meta-analyses. Keep this on hand should we do this kind of work (though unlikely given how long/time intensive these are)
+
+
+***
+
+* Brooke BS, Schwartz TA, Pawlik TM. Moose reporting guidelines for meta-analyses of observational studies. JAMA Surg. 2021.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamasurg.2021.0522
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_04/Brooke. 2021.pdf
+    - **COMMENT**: Meta-analysis of observational studies. Keep on hand should we do this kind of publication. 
+
+
+***
+
+* Dossett LA, Kaji AH, Cochran A. Srqr and coreq reporting guidelines for qualitative studies. JAMA Surg. 2021.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamasurg.2021.0525
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_04/Dossett. 2021.pdf
+    - **COMMENT**: Standards for reporting qualitative research and consoldiated criteria for reporting qualitative research. Two guidelines are briefly presented. I'm unfamiliar with both but wanted to share with everyone in case this could inform any of our focus group and interview data!
+
+
+***
+
+* Fayanju OM, Haukoos JS, Tseng JF. Cheers reporting guidelines for economic evaluations. JAMA Surg. 2021.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamasurg.2021.0540
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_04/Fayanju. 2021.pdf
+    - **COMMENT**: Consolidated health economic evaluation reporting standards. Sharing in case we do any cost-related work, especially for suicide.
+
+
+***
+
+* Ghaferi AA, Schwartz TA, Pawlik TM. Strobe reporting guidelines for observational studies. JAMA Surg. 2021.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamasurg.2021.0528
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_04/Ghaferi. 2021.pdf
+    - **COMMENT**: Strengthening the reporting of observational studies in epidemiology. Reference to guidelines. Great to have on hand when reporting results for publication!
+
+
+***
+
+* Haynes AB, Haukoos JS, Dimick JB. Trend reporting guidelines for nonrandomized/quasi-experimental study designs. JAMA Surg. 2021.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamasurg.2021.0552
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_04/Haynes. 2021.pdf
+    - **COMMENT**: Another guideline, sharing for SA. Transparent reporting of evaluations with nonrandomized designs. 
+
+
+***
+
+* Kelz RR, Schwartz TA, Haut ER. Squire reporting guidelines for quality improvement studies. JAMA Surg. 2021.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamasurg.2021.0531
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_04/Kelz. 2021.pdf
+    - **COMMENT**: Not something we're likely to use but sharing for SA - standards for quality improvement reporting excellence.
+
+
+***
+
+* Massarweh NN, Haukoos JS, Ghaferi AA. Ispor reporting guidelines for comparative effectiveness research. JAMA Surg. 2021.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamasurg.2021.0534
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_04/Massarweh. 2021.pdf
+    - **COMMENT**: Not likely to be used by us but sharing for SA - International society for pharmacoeconomics and outcomes research
+
+
+***
+
+* Merkow RP, Kaji AH, Itani KMF. The consort framework. JAMA Surg. 2021.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamasurg.2021.0549
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_04/Merkow. 2021.pdf
+    - **COMMENT**: We don't do trial work but this is still good to have on hand for general knowledg and when reviewing articles - Consolidated standards of reporting trials. 
+
+
+***
+
+* Normand MP, Dallery J, Slanzi CM. Leveraging applied behavior analysis research and practice in the service of public health. J Appl Behav Anal. 2021;54(2):457-83.
+
+    - **LINK (doi)**: http://doi.org/10.1002/jaba.832
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_04/Normand. 2021.pdf
+    - **COMMENT**: A paper that tries to tie together the fields of applied behavior analysis and public health
+
+
+***
+
+* Patzer RE, Kaji AH, Fong Y. Tripod reporting guidelines for diagnostic and prognostic studies. JAMA Surg. 2021.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamasurg.2021.0537
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_04/Patzer. 2021.pdf
+    - **COMMENT**: Not likely to be used by us but sharing for SA. Transparent reporting of multivariable prediction model for individual prognosis or diagnosis. 
+
+
+***
+
+* Pitt SC, Schwartz TA, Chu D. Aapor reporting guidelines for survey studies. JAMA Surg. 2021.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamasurg.2021.0543
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_04/Pitt. 2021.pdf
+    - **COMMENT**: We don't really do "public opinion" polls but the work from the barracks survey had me wondering whether there might be some useful information to get from these - American association for public opinion research reporting guidelines. 
+
+
+## March 2021
+
+* C A. Harking, cherry-picking, p-hacking, fishing expeditions, and data dredging and mining as questionable research practices. J Clin Psychiatry. 2021;82(1):20f13804.
+
+    - **LINK (doi)**: http://doi.org/10.4088/JCP.20f13804
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_03/Andrade. 2021.pdf
+    - **COMMENT**: Brief overview of questionable research practices. Good to be aware of, if you aren't already. 
+
+
+***
+
+* Hammerton G, Munafo MR. Causal inference with observational data: The need for triangulation of evidence. Psychol Med. 2021;51(4):563-78.
+
+    - **LINK (doi)**: http://doi.org/10.1017/S0033291720005127
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_03/Hammerton. 2021.pdf
+    - **COMMENT**: I pulled this thinking it might discuss triangulation in terms of multi-disciplinary methods. Instead, it's more limited but still an interesting resource to have on hand. 
+
+
+## September 2020
+
+* Lachin JM. Worst-rank score methods-a nonparametric approach to informatively missing data. JAMA. 2020.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jama.2020.7709
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/10.01.2020 - EndNote Test - DO NOT EDIT/Lachin. 2020.pdf
+    - **COMMENT**: Short introduction to using ranking measures for missing data analysis (where the missing data is informative/expected). Save for a rainy day :)
+
+
+## August 2020
+
+
+* Mori M, Krumholz HM, Allore HG. Using latent class analysis to identify hidden clinical phenotypes. JAMA. 2020;324(7):700-1.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jama.2020.2278
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Mori. 2020..pdf
+    - **COMMENT**: These are short and easy to follow examples of statistical techniques meant to introduce the topic to a general audience. They're good to have in the event we want to try one out (their references usually contain helpful resources should one want to do them)
+

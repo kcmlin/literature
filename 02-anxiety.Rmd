@@ -1,0 +1,28 @@
+# Anxiety {#anxiety}
+
+## Februrary 2021
+
+* BWJH P. Anxiety disorders. 2021.
+
+    - **LINK (doi)**: http://doi.org/10.1016/S0140-6736(21)00359-7
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_02/Penninx. 2021.pdf
+    - **COMMENT**: Nice overview of anxiety disorders in the Seminar series in the Lancet
+
+
+## November 2020
+
+* Saha S, Lim CCW, Cannon DL, et al. Co-morbidity between mood and anxiety disorders: A systematic review and meta-analysis. Depress Anxiety. 2020.
+
+    - **LINK (doi)**: http://doi.org/10.1002/da.23113
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/NOV/Saha. 2020.pdf
+    - **COMMENT**: Meta-analysis of the prevalence of comorbid mood and anxiety disorders. Median OR between these two classes of disorders was 6.1. Wonder if/whether we should do a dive into comorbidities among our Soldiers. I haven't seen a detailed breakdown, at least I don't think...
+
+
+## July 2020
+
+* Bahji A, Meyyappan AC, Hawken ER. Efficacy and acceptability of cannabinoids for anxiety disorders in adults: A systematic review & meta-analysis. J Psychiatr Res. 2020;129:257-64.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.jpsychires.2020.07.030
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Bahji. 2020.pdf
+    - **COMMENT**: Meta-analysis of 14 trials evaluating cannabinoids for anxiety. There's some positive signal for reduced anxiety but publication bias was high (no pun intended!). 
+

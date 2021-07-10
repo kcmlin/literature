@@ -1,0 +1,755 @@
+# COVID {#covid}
+
+## May 2021
+
+* Faust JS. Mortality from drug overdoses, homicides, unintentional injuries, motor vehicle crashes, and suicides during the pandemic, march-august 2020. JAMA. 2021.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_05/Faust. 2021.pdf
+    - **COMMENT**: Authors used national, provisional mortality data to estimate changes due to the pandemic. Suicides were actually lower than expected (95% CI 0.86-0.96), whereas all other causes (excluding MV crashes) were higher. The highest increase in death type was for drug overdoses (95% CI 1.15-1.44). 
+
+
+***
+
+* Friedman. Covid-19 and the drug overdose crisis: Uncovering the deadliest months in the united states, january-july 2020. Am J Pub Health. 2021.
+
+    - **LINK (doi)**: http://doi.org/10.2105/AJPH.2021.306256)
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_05/Friedman. 2021.pdf
+    - **COMMENT**:  A detailed look at drug overdoses during the pandemic. Horrific. The increases were seen across the board but there was a lot of variability in the degree of increase by state.
+
+
+***
+
+* Morton CM. Alcohol sales during covid-19 social restrictions: Initial evidence from alcoholic beverage control states. Subst Abus. 2021;42(2):158-60.
+
+    - **LINK (doi)**: http://doi.org/10.1080/08897077.2020.1856293
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_05/Morton. 2021.pdf
+    - **COMMENT**:  Analysis of actual alcohol sales during COVID. Great to see some alternatives to survey data but the study only included a few states, so no idea how this looks at the national level. 
+
+
+## April 2021
+
+
+* J A. Update: Covid-19 pandemic-associated changes in emergency department visits - united states, december 2020-january 2021. morb Mortal Wkly Rep. 2021;70(15):552-6.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_04/Adjemian. 2021..pdf
+    - **COMMENT**:  Documents the decrease in ED visits that occurred but the higher proportion of mental health visits, especially for pediatric cases. 
+
+
+***
+
+* RS B. Suicide attempt and intentional self-harm during the earlier phase of the covid-19 pandemic in washtenaw county, michigan. 2021.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_04/Bergmans. 2021.pdf
+    - **COMMENT**:  No increase was found in emergency care for suicide-related behavior during the pandemic; there were actually fewer. 
+
+
+***
+
+* Currie JM, Schnell MK, Schwandt H, et al. Trends in drug overdose mortality in ohio during the first 7 months of the covid-19 pandemic. JAMA Netw Open. 2021;4(4):e217112.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamanetworkopen.2021.7112
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_04/Currie. 2021.pdf
+    - **COMMENT**:  In Ohio there was a spike in overdoses that coincided with the pandemic. 
+
+
+***
+
+* Mason M, Arukumar P, Feinglass J. The pandemic stay-at-home order and opioid-involved overdose fatalities. JAMA. 2021.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jama.2021.6700
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_04/Mason. 2021.pdf
+    - **COMMENT**:  Commentary on COVID and overdose. 
+
+
+***
+
+* A V. Symptoms of anxiety or depressive disorder and use of mental health care among adults during the covid-19 pandemic - united states, august 2020-february 2021. morb Mortal Wkly Rep. 2021;70(13):490-4.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_04/Vahratian. 2021.pdf
+    - **COMMENT**: Symptoms of anxiety and depression increased from Aug 2020 to Feb 2021, as did the percentage of people reporting an unmet mental health care need. This is not good news. 
+
+
+## March 2021
+
+* Gratz KL, Scamaldo KM, Vidana AG, et al. Prospective interactive influence of financial strain and emotional nonacceptance on problematic alcohol use during the covid-19 pandemic. Am J Drug Alcohol Abuse. 2021;47(1):107-16.
+
+    - **LINK (doi)**: http://doi.org/10.1080/00952990.2020.1849248
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_03/Gratz. 2021.pdf
+    - **COMMENT**:  Discussion on the reasons for increased drinking during COVID (references some others in this newsletter)
+
+
+***
+
+* Molsberry R, Maskaly J, Reingle Gonzalez JM. Disentangling the root causes of covid-19 related increases in alcohol consumption. Am J Drug Alcohol Abuse. 2021;47(1):1-4.
+
+    - **LINK (doi)**: http://doi.org/10.1080/00952990.2021.1881532
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_03/Molsberry. 2021.pdf
+    - **COMMENT**: Further discussion on reasons for drinking during COVID
+
+
+***
+
+* Perlis RH, Ognyanova K, Santillana M, et al. Association of acute symptoms of covid-19 and symptoms of depression in adults. JAMA Netw Open. 2021;4(3):e213223.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamanetworkopen.2021.3223
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_03/Perlis. 2021.pdf
+    - **COMMENT**: Over half of a sample that had COVID met criteria for moderate or greater depression. Younger male respondents were more likely to report depression. Adds to work on the psychiatric sequelae of COVID.
+
+
+***
+
+* GM R. Operational stress control during a pandemic: An army national guard perspective on lessons learned during the response to covid-19. mil Behav Health. 2021;9(1):11-6.
+
+    - **LINK (doi)**: http://doi.org/10.1080/21635781.2021.1904064
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_03/Reger. 2021.pdf
+    - **COMMENT**: Reger discusses stress experiences specific to COVID and the National Guard and argues that new COSC doctrine for this group may be necessary. This may be particularly true if we continue to see natural disasters, civil unrest, etc in which the NG is used. 
+
+
+***
+
+* Sharma RA, Subedi K, Gbadebo BM, et al. Alcohol withdrawal rates in hospitalized patients during the covid-19 pandemic. JAMA Netw Open. 2021;4(3):e210422.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamanetworkopen.2021.0422
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_03/Sharma. 2021.pdf
+    - **COMMENT**: This was the first report of alcohol withdrawal related to COVID (using data). Withdrawal was higher during the stay at home period compared to the same time during 2019. The analysis here isn't super rigorous (e.g., rates were higher during the pre stay-at-home during 2020, too) but these suggest an increase. 
+
+
+***
+
+* Shreffler J, Shoff H, Thomas JJ, et al. Brief report: The impact of covid-19 on emergency department overdose diagnoses and county overdose deaths. Am J Addict. 2021.
+
+    - **LINK (doi)**: http://doi.org/10.1111/ajad.13148
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_03/Shreffler. 2021.pdf
+    - **COMMENT**: In KY, overdoses and overdose deaths increased during the pandemic. 
+
+
+## February 2021
+
+* Bernadini F AL, Rotter M, Compton MT. Social determinants of mental health as mediators and moderators of the mental health impacts of the covid-19 pandemic. Psychiatr Serv. 2021.
+
+    - **LINK (doi)**: http://doi.org/10.1176/appi.ps.202000393)
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_02/Bernardini. 2021.pdf
+    - **COMMENT**: Brief discussion on the intersection of SDOH and COVID-19
+
+
+***
+
+* Families BS. Pain points poll deep dive: Understanding the mental health impact of covid-19 on mental health. 2021.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_02/Blue Star Families. 2021.b..pdf
+    - **COMMENT**: Poll given during COVID. Brief report. Also includes some recommendations. 
+
+
+***
+
+* Families BS. Pain points poll deep dive: Understanding the impact of covid-19 on blakc and hispanic/latinx families. 2021.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_02/Blue Star Families. 2021.pdf
+    - **COMMENT**: Subreport on the impacts of COVID on Black and Latino families in particular. Nice to see this focus. 
+
+
+***
+
+* Czeisler ME, Lane RI, Wiley JF, et al. Follow-up survey of us adult reports of mental health, substance use, and suicidal ideation during the covid-19 pandemic, september 2020. JAMA Netw Open. 2021;4(2):e2037665.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamanetworkopen.2020.37665
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_02/Czeisler. 2021.pdf
+    - **COMMENT**: This study suggests that mental health-related adverse effects of COVID-19 did not disappear with time. It begs the question about the sheer impact this will have and for how long moving forward. 
+
+
+***
+
+* Holland KM, Jones C, Vivolo-Kantor AM, et al. Trends in us emergency department visits for mental health, overdose, and violence outcomes before and during the covid-19 pandemic. JAMA Psychiatry. 2021;78(4):372-9.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamapsychiatry.2020.4402
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_02/Holland. 2021.pdf
+    - **COMMENT**:  ED visits for mental health conditions, suicide attempts, drug overdoses, intimate partner violence, and child abuse and neglect were higher during the COVID-19 pandemic than the same period in 2019
+
+
+***
+
+* McKetta S, Morrison CN, Keyes KM. Trends in us alcohol consumption frequency during the first wave of the sars-cov-2 pandemic. Alcohol Clin Exp Res. 2021;45(4):773-83.
+
+    - **LINK (doi)**: http://doi.org/10.1111/acer.14575
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_02/McKetta. 2021.pdf
+    - **COMMENT**: Drinking days increased during the first months of the pandemic.
+
+
+***
+
+* LR M-E. Racial and ethnic disparities in the prevalence of stress and worry, mental health conditions, and increased substance use among adults during the covid-19 pandemic - united states, april and may 2020. Morb Mortal Wkly Rep. 2021;70(5):162-6.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_02/McKnight-Eily. 2021.pdf
+    - **COMMENT**:  There were notable disparities, especially among black and Hispanic/Latino. 
+
+
+***
+
+* Patel SY, Mehrotra A, Huskamp HA, et al. Variation in telemedicine use and outpatient care during the covid-19 pandemic in the united states. Health Aff (Millwood). 2021;40(2):349-58.
+
+    - **LINK (doi)**: http://doi.org/10.1377/hlthaff.2020.01786
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_02/Patel. 2021.pdf
+    - **COMMENT**: Exhibit 3 is worth checking out. Social work, psychiatry, and psychology saw the lowest disruptions in total patient visits per week and also were among the most commonly delivered via telemedicine. 
+
+
+***
+
+* Wang Y, Kala MP, Jafar TH. Factors associated with psychological distress during the coronavirus disease 2019 (covid-19) pandemic on the predominantly general population: A systematic review and meta-analysis. PLoS One. 2020;15(12):e0244630.
+
+    - **LINK (doi)**: http://doi.org/10.1371/journal.pone.0244630
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_02/Wang. 2021.pdf
+    - **COMMENT**: FINALLY! A meta-analysis on this topic. At this point (it's old, December 2020), it included 68 studies. It provides estimates and risk factors for various BH outcomes. Moving forward, I will probably focus on pulling reviews or meta-analyses on this topic.
+
+
+## January 2021
+
+
+* Breslau J, Finucane ML, Locker AR, et al. A longitudinal study of psychological distress in the united states before and during the covid-19 pandemic. Prev Med. 2021;143:106362.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.ypmed.2020.106362
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/JAN/Breslau. 2021.pdf
+    - **COMMENT**:  Another COVID-19 longitudinal survey on distress. 
+
+
+***
+
+* Jager J, Keyes KM. Is substance use changing because of the covid-19 pandemic? Conceptual and methodological considerations to delineating the impact of the covid-19 pandemic on substance use and disorder. Addiction. 2021.
+
+    - **LINK (doi)**: http://doi.org/10.1111/add.15414
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/JAN/Jager. 2021.pdf
+    - **COMMENT**:  A very in the weeds commentary about time/period effects in relation to COVID and alcohol/drug use. Pulled because as the authors note, trying to get at COVID's impacts is very challenging and requires complex modeling. 
+
+
+***
+
+* Jetelina KK, Knell G, Molsberry RJ. Changes in intimate partner violence during the early stages of the covid-19 pandemic in the USA. Inj Prev. 2021;27(1):93-7.
+
+    - **LINK (doi)**: http://doi.org/10.1136/injuryprev-2020-043831
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/JAN/Jetelina. 2021.pdf
+    - **COMMENT**: Cross-sectional survey examining intimate partner violence during COVID in the US. Major limitations in how the survey was distributed (i.e., not representative) but provides some data that may be of interest. Am still curious if FAP has seen any changes during COVID in partner/child abuse numbers. 
+
+
+***
+
+* Nagata JM, Ganson KT, Whittle HJ, et al. Food insufficiency and mental health in the U.S. During the covid-19 pandemic. American Journal of Preventive Medicine. 2021.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.amepre.2020.12.004
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/JAN/Nagata. 2020.pdf
+    - **COMMENT**: Food insufficiency increased during COVID and was associated with poorer mental health. The relationship between food insufficiency and mental health was weaker among those who received free groceries/meals. 
+
+
+***
+
+* Nemani K, Li C, Olfson M, et al. Association of psychiatric disorders with mortality among patients with covid-19. JAMA Psychiatry. 2021.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamapsychiatry.2020.4442
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/JAN/Nemani. 2021.pdf
+    - **COMMENT**: Patients with schizophrenia spectrum disorders but not mood/anxiety disorders were more likely to die after testing positive for COVID. Keep in mind this is one study and it didn't look at all BH diagnoses. There are a few others out there on this topic that are more comprehensive. 
+
+
+***
+
+* Calderon-Anyosa RJC, Kaufman JS. Impact of covid-19 lockdown policy on homicide, suicide, and motor vehicle deaths in Peru. Prev Med. 2021;143:106331.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.ypmed.2020.106331
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/JAN/Renzo. 2021.pdf
+    - **COMMENT**: Study of out Peru showing drops in homicides, suicides, traffic accidents, and other accidental deaths during their COVID lockdowns. 
+
+
+***
+
+* Faust JS, Shah SB, Du C, et al. Suicide deaths during the covid-19 stay-at-home advisory in Massachusetts, march to may 2020. JAMA Netw Open. 2021;4(1):e2034273.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamanetworkopen.2020.34273
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/JAN/Samuel. 2021.pdf
+    - **COMMENT**: Expected suicides did not differ in Massachusetts during the stay-at-home advisory compared to previous years. 
+
+
+***
+
+* Wang QQ, Kaelber DC, Xu R, et al. Covid-19 risk and outcomes in patients with substance use disorders: Analyses from electronic health records in the United States. Mol Psychiatry. 2021;26(1):30-9.
+
+    - **LINK (doi)**: http://doi.org/10.1038/s41380-020-00880-7
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/JAN/Wang. 2021.pdf
+    - **COMMENT**: Large EHR study showing greater risk of COVID and adverse outcomes for those with SUDs. Similar dataset as has been previously published but focuses on SUDs here.
+
+
+## December 2020
+
+
+* Ammerman BA, Burke TA, Jacobucci R, et al. Preliminary investigation of the association between covid-19 and suicidal thoughts and behaviors in the u.S. Journal of Psychiatric Research. 2021;134:32-8.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.jpsychires.2020.12.037
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/DEC/Ammerman. 2020.pdf
+    - **COMMENT**: COVID and suicidal thoughts/behaviors survey. Very small sample drawn from AMZ mechanical Turk. Shows expected links between COVID experiences and STBs. What was new (and odd) was they found some respondents reported intentionally exposing themselves to COVID with intent to die. This is the first I had heard of this. Definitely need replication. 
+
+
+***
+
+* Bray et al. Racial differences in statewide suicide mortality trends in Maryland during the coronavirus disease 2019 (covid-19) pandemic. JAMA Psychiatry. 2020.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/DEC/Bray. 2020.pdf
+    - **COMMENT**: An early look at the impact of COVID on suicide. This analysis shows that the impacts on suicide depend on race. Black residents in Maryland saw increases in suicide whereas White residents saw decreases. Understanding the impact of this pandemic on suicide and related issues is going to require this kind of stratification, as we know there are huge differences in how and who it's affecting. 
+
+
+***
+
+* Cuellar A, Mark TL, Sharfstein SS, et al. How to mitigate the mental health care consequences of the covid-19 financial crisis. Psychiatr Serv. 2020;71(12):1317-9.
+
+    - **LINK (doi)**: http://doi.org/10.1176/appi.ps.202000329
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/DEC/Cuellar. 2020.pdf
+    - **COMMENT**: Brief paper describing economic impacts on BH and suicide, with recommendations for risk mitigation. Not really an issue for Soldiers but more applicable for their families. 
+
+
+***
+
+* Friedman et al. Overdose-related cardiac arrests observed by emergency medical services during the us covid-19 epidemic. JAMA Psychiatry. 2020.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/DEC/Friedman. 2020.pdf
+    - **COMMENT**: Brief report describing surge in overdose-related cardiac arrests during the early months of the pandemic. Noteworthy that overall overdose incidents didn't increase here, suggesting the fatality rate may be higher (e.g., more lethal drug supply, isolation leading to solo use). 
+
+
+***
+
+* Huskamp et al.. Treatment of opioid use disorder among commercially insured patients in the context of the covid-19 pandemic. JAMA. 2020.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/DEC/Huskamp. 2020.pdf
+    - **COMMENT**: This analysis shows that early in the pandemic, there were slightly fewer individuals initiating treatment with medications for opioid use disorder. Those who were already taking medications for opioid use disorder did not see disruptions. Of note, most were for buprenorphine and it's unclear if this included opioid treatment programs, which may have experienced disruptions. 
+
+
+***
+
+* Leske S, Kõlves K, Crompton D, et al. Real-time suicide mortality data from police reports in queensland, australia, during the covid-19 pandemic: An interrupted time-series analysis. The Lancet Psychiatry. 2021;8(1):58-63.
+
+    - **LINK (doi)**: http://doi.org/10.1016/s2215-0366(20)30435-1
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/DEC/Leske. 2020.pdf
+    - **COMMENT**: One of the first (albeit small) studies coming out on the impacts of COVID on suicides. This one was done in Queensland and found no evidence of a change in suicide due to COVID. They also saw no changes in the motives for suspected suicides. Check out the Bray article this month though for an example of how the overall rate may be masking important subgroup changes. 
+
+
+***
+
+* Magill E, Siegel Z, Pike KM. The mental health of frontline health care providers during pandemics: A rapid review of the literature. Psychiatr Serv. 2020;71(12):1260-9.
+
+    - **LINK (doi)**: http://doi.org/10.1176/appi.ps.202000274
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/DEC/Magill. 2020.pdf
+    - **COMMENT**: Another review of pandemic impacts on BH in health care workers. At this point there must be 10 or more of these published!
+
+
+***
+
+* Murata S, Rezeppa T, Thoma B, et al. The psychiatric sequelae of the covid-19 pandemic in adolescents, adults, and health care workers. Depress Anxiety. 2020.
+
+    - **LINK (doi)**: http://doi.org/10.1002/da.23120
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/DEC/Murata. 2020.pdf
+    - **COMMENT**: Survey on COVID experiences and psychiatric symptoms. Adolescents reported greater symptoms than adults. Loneliness was the most common predictor across all outcomes. 
+
+
+***
+
+* SAMHSA. Executive order report: Saving lives through increased support for mental and behavioral health needs. 2020.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/DEC/SAMHSA.2 2020.pdf
+    - **COMMENT**: This report highlights needs stemming from the COVID-19 pandemic and provides a blueprint to alleviate ongoing challenges. This is a high-level summary document but the recommendations from various agencies are noteworthy. The DODs input was a little underwhelming (IMO)
+
+
+## November 2020
+
+
+* Alexander GC, Tajanlangit M, Heyward J, et al. Use and content of primary care office-based vs telemedicine care visits during the covid-19 pandemic in the us. JAMA Netw Open. 2020;3(10):e2021476.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamanetworkopen.2020.21476
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/NOV/Alexander. 2020.pdf
+    - **COMMENT**: A very detailed analysis of in-person and telemedicine primary care before and during the pandemic. The focus is on characterizing changes as a whole - nationally - as opposed to one specific area (e.g., very little on BH here). Nevertheless, it's a useful backdrop for understanding everything else. 
+
+
+***
+
+* Anestis MD, Bond AE, Daruwala SE, et al. Suicidal ideation among individuals who have purchased firearms during covid-19. American Journal of Preventive Medicine. 2020.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.amepre.2020.http://doi.org/10.013
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/NOV/Annestis. 2020.pdf
+    - **COMMENT**: An interesting analysis comparing those who purchased a firearm during COVID, firearm owners who did not purchase one during COVID, and non-firearm owners. Those who purchased a firearm during COVID more frequently reported suicidal ideation. Findings on firearm storage practices across groups were mixed but those who purchased during COVID made changes to their practices that increased risk (e.g., making them more readily accessible). Study has major limitations (e.g., not representative, not differentiating first-time purchasers) but highlights a potentially high-risk group resulting from COVID. 
+
+
+***
+
+* Goldman ML, Druss BG, Horvitz-Lennon M, et al. Mental health policy in the era of covid-19. Psychiatr Serv. 2020;71(11):1158-62.
+
+    - **LINK (doi)**: http://doi.org/10.1176/appi.ps.202000219
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/NOV/Goldman. 2020.pdf
+    - **COMMENT**: Brief overview of policy changes that have occurred in the area of mental health in response to COVID. Areas include: legislation, regulation, financing, accountability, and workforce development. 
+
+
+***
+
+* Gollust SE, Vogel RI, Rothman A, et al. Americans' perceptions of disparities in covid-19 mortality: Results from a nationally-representative survey. Prev Med. 2020;141:106278.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.ypmed.2020.106278
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/NOV/Gollust. 2020.pdf
+    - **COMMENT**: We of course know there are a variety of COVID disparities. This study asked a representative US population about their views and awareness of COVID disparities (age, comorbidity, race, and SES). Age and health morbidities were much more recognized than racial and SES disparities. Differences along education, income, party affiliation, and news sources explained some of the knowledge gaps. 
+
+
+***
+
+* John A, Pirkis J, Gunnell D, et al. Trends in suicide during the covid-19 pandemic. BMJ. 2020;371:m4352.
+
+    - **LINK (doi)**: http://doi.org/10.1136/bmj.m4352
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/NOV/John. 2020.pdf
+    - **COMMENT**: Short editorial on COVID and suicide, cautioning that we don't yet have any data to suggest impacts. These are the same authors who are doing the living review that should be updated next month. I really think there are some opportunities to look at this more closely in the MIL because we have less of a data lag than other records. 
+
+
+***
+
+* Kujawa A, Green H, Compas BE, et al. Exposure to covid-19 pandemic stress: Associations with depression and anxiety in emerging adults in the united states. Depress Anxiety. 2020.
+
+    - **LINK (doi)**: http://doi.org/10.1002/da.23109
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/NOV/Kujawa. 2020.pdf
+    - **COMMENT**: Another COVID survey on stress, depression, and anxiety. This one focuses on emerging adults. 
+
+
+***
+
+* Leaune E, Samuel M, Oh H, et al. Suicidal behaviors and ideation during emerging viral disease outbreaks before the covid-19 pandemic: A systematic rapid review. Prev Med. 2020;141:106264.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.ypmed.2020.106264
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/NOV/Leaune. 2020.pdf
+    - **COMMENT**: Another review of suicidal behaviors during previous viral outbreaks (everyone seems to have had the same idea for this paper - I think this is the 2nd or 3rd one of this type that I've seen!). The previous outbreaks and work related to suicide were weak and not common. 
+
+
+***
+
+* Liu Y, Mattke S. Association between state stay-at-home orders and risk reduction behaviors and mental distress amid the covid-19 pandemic. Prev Med. 2020;141:106299.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.ypmed.2020.106299
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/NOV/Liu. 2020.pdf
+    - **COMMENT**: Stay-at-home orders were associated with adopting risk reduction behaviors like washing hands, wearing a mask, etc. and increases in mental distress in the first week that tapered off. Nothing too shocking here but I suppose good to document and add to the list. 
+
+
+***
+
+* Mansour O TM, Heyward J, et al. Telemedicine and office-based care for behavioral and psychiatric conditions during the covid-19 pandemic in the united states. Ann Intern Med. 2020.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/NOV/Mansour. 2020.pdf
+    - **COMMENT**: Characterizes quarterly telemedicine and office-based visits before and during the pandemic for the 6 most prevalent conditions in the US. It's remarkable how quickly this shift occurred. These data are not very detailed but show some other interesting relationships that are worth a look (e.g., breakdown by conditions). 
+
+
+***
+
+* McGinty EE, Presskreischer R, Anderson KE, et al. Psychological distress and covid-19-related stressors reported in a longitudinal cohort of us adults in april and july 2020. JAMA. 2020.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jama.2020.21231
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/NOV/McGinty. 2020.pdf
+    - **COMMENT**: Serious psychological distress in the US did not change from April to July overall or for any subgroup. The most common stressors among those with serious distress were fears of getting COVID and the pandemic's effects on employment and finances. For those in school or with school-aged children, disruptions to childcare were the most common. The authors note that the stability in distress across the time period is suggestive that the pandemic's impacts on distress are associated with the larger, more long-term disruptions. Just one study though, so add it to the pile! 
+
+
+***
+
+* Taquet M, Luciano S, Geddes JR, et al. Bidirectional associations between covid-19 and psychiatric disorder: Retrospective cohort studies of 62 354 covid-19 cases in the USA. The Lancet Psychiatry. 2020.
+
+    - **LINK (doi)**: http://doi.org/10.1016/s2215-0366(20)30462-4
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/NOV/Taquet. 2020.pdf
+
+    - **COMMENT**: Compared to 6 other health events (flu, respiratory infection, skin infection, cholelithiasis, urolithiasis, bone fracture), a diagnosis of COVID was associated with increased odds (1.6-2.2) of a subsequent psychiatric diagnosis 14-90 days later. The incident of psychiatric diagnoses (new) was 5.8% after a COVID diagnosis. As has been shown in other work, having a psychiatric diagnosis was associated with being diagnosed with COVID (RR = 1.65). I do wonder whether this is something we should be on the lookout for and monitoring within the Army. For example, what BH resources are provided to those testing positive for COVID?  
+
+
+***
+
+* Yue JL, Yan W, Sun YK, et al. Mental health services for infectious disease outbreaks including covid-19: A rapid systematic review. Psychol Med. 2020:1-16.
+
+    - **LINK (doi)**: http://doi.org/10.1017/S0033291720003888
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/NOV/Yue. 2020.pdf
+    - **COMMENT**: Review of mental health interventions previously used in infection disease outbreaks. Includes some interesting approaches and recommendations for responding to COVID. 
+
+
+***
+
+* Ettman CK, Gradus JL, Galea S. Invited Commentary: Reckoning with the relationship between stressors and suicide attempts in a time of covid-19. Am J Epidemiol. 2020;189(11):1275-7.
+
+    - **LINK (doi)**: http://doi.org/10.1093/aje/kwaa147
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/NOV/Ettman. 2020.pdf
+    - **COMMENT**:  The authors comment on Elbogen et al. (2020) about how their findings on the relationship between financial strain and suicide relate to the ongoing pandemic. 
+
+
+***
+
+* Koob GF PP, White A. Addiction as a coping response: Hyperkatifeia, deaths of despair, and covid-19. Am J Psychiatry. 2020;177(11):1031-7.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/NOV/Koob. 2020.pdf
+    - **COMMENT**: This is a brief review on the cycles of addiction, with an emphasis on the role that negative reinforcement may play in interacting with COVID-19, deaths of despair, and other side effects of alcohol/drug use. 
+
+
+***
+
+* Elbogen E. B. LM, Montgomery A.E., Strickland S., Wagner H.R., Tsai J. Response to "stressors and suicide attempts in a time of covid-19". American Journal of Epidemiology. 2020;189(11):Advance access publication.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamapsychiatry.2020.1060)
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/NOV/Elbogen.2020. response.pdf
+    - **COMMENT**:  Reply to Ettman et al. 2020 on COVID-19 and suicide. See Ettman first. 
+
+
+## October 2020
+
+
+* Carlo AD, Barnett BS, Unutzer J. Harnessing collaborative care to meet mental health demands in the era of covid-19. JAMA Psychiatry. 2020.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamapsychiatry.2020.3216
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/OCT/Carlo. 2020.pdf
+    - **COMMENT**:  Short commentary on how collaborative care models are best equipped to handle the demands on mental health caused by COVID. 
+
+
+***
+
+* Daly M, Robinson E. Psychological distress and adaptation to the covid-19 crisis in the united states. J Psychiatr Res. 2020.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.jpsychires.2020.10.035
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/OCT/Daly. 2020.pdf
+    - **COMMENT**: Study used an eight-wave panel from the "Understanding America Study" to examine reported distress over time during the COVID pandemic (March-July). Distress increased .27 SDs from March to April but declined to baseline levels by June. This pattern didn't differ by demographics or pre-existing mental health conditions. I was actually pretty shocked that there weren't any differences/disparities. Add this to the huge pile of COVID surveys on mental health!
+
+
+***
+
+* John A, et al. The impact of the covid-19 pandemic on self-harm and suicidal behaviour: A living systematic review [version 1; peer review: 1 approved]. F1000 Research. 2020.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/OCT/John. 2020.pdf
+    - **COMMENT**: This is a living systematic review on the impacts of COVID on suicidal behavior and self-harm. The first iteration didn't really have any meaningful results. The PROSPERO protocol says this will be updated every 3 months, so hopefully we have more toward the end of this year. 
+
+
+***
+
+* Maalouf FT, Medawar B, Meho LI, et al. Mental health research in response to the covid-19, ebola, and h1n1 outbreaks: A comparative bibliometric analysis. J Psychiatr Res. 2020.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.jpsychires.2020.10.018
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/OCT/Maalouf. 2020.pdf
+    - **COMMENT**: Bibliometric analysis of COVID research on mental health and a comparison with H1N! and Ebola. Not an apples to apples comparison for sure but the amount of information coming out now for COVID in this area is enormous (as you would expect). What's quite different from the previous outbreaks is that those for COVID are mostly open-access! 
+
+
+***
+
+* Moutier C. Suicide prevention in the covid-19 era: Transforming threat into opportunity. JAMA Psychiatry. 2020.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamapsychiatry.2020.3746
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/OCT/Moutier. 2020.pdf
+    - **COMMENT**: I highly recommend reading this article. If nothing else, check out the Box that overviews suicide risk and prevention during COVID. From the text: "This article covers what data and recent events during the first
+6 months of the pandemic reveal about specific effects on suicide risk and outlines actionable steps that policymakers, health care leaders, and organizational leaders can take to mitigate suicide risk during and after the pandemic."
+
+
+***
+
+* Olson K, Shanafelt T, Southwick S. Pandemic-driven posttraumatic growth for organizations and individuals. JAMA. 2020.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jama.2020.20275
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/OCT/Olson. 2020.pdf
+    - **COMMENT**: Brief commentary on posttraumatic growth. I thought this was particularly interesting because it outlines steps organizations can take to grow from COVID. In many ways, I think APHC has taken those steps so it was encouraging to see!
+
+
+***
+
+* Riehm KE, Holingue C, Kalb LG, et al. Associations between media exposure and mental distress among u.S. Adults at the beginning of the covid-19 pandemic. Am J Prev Med. 2020;59(5):630-8.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.amepre.2020.06.008
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/OCT/Riehm. 2020.pdf
+    - **COMMENT**: Another study looking at media exposure and distress re: COVID. Consistent with the guidelines we see to limit media exposure (e.g., doom scrolling), these authors found it and social media exposure was associated with moderately increased distress.  
+
+
+***
+
+* Wang QQ VN. Increased risk of covid-19 infection and mortality in people with mental disorders: Analysis from electronic health records in the united states. World Psychiatry. 2020.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/OCT/Wang. 2020.pdf
+    - **COMMENT**: A massive analysis of EHR data in the US that shows individuals with a recent mental health diagnosis were more likely to be infected with COVID, hospitalized for COVID, and to die from COVID. There were racial and sex disparities as well. The authors discuss a number of possibilities to explain this finding, all of which are alarming but sadly not surprising. COVID continues to expose the worst in our county's health inequities. 
+
+
+***
+
+* Zhou Y, Sun Z, Wang Y, et al. The prevalence of ptss under the influence of public health emergencies in last two decades: A systematic review and meta-analysis. Clin Psychol Rev. 2020;83:101938.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.cpr.2020.101938
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/OCT/Zhou. 2020.pdf
+    - **COMMENT**: This paper performed a meta-analysis of post-traumatic stress symptom prevalence following public health emergencies. Not surprisingly, it was high during these times and serves as a nice backdrop for contextualizing COVID. They noted spots of heterogeneity (e.g., across counties, settings like healthcare vs. community) as well. 
+
+
+## September 2020
+
+
+* Barzilay R, Moore TM, Greenberg DM, et al. Resilience, covid-19-related stress, anxiety and depression during the pandemic in a large population enriched for healthcare providers. Transl Psychiatry. 2020;10(1):291.
+
+    - **LINK (doi)**: http://doi.org/10.1038/s41398-020-00982-4
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Barzilay. 2020.pdf
+    - **COMMENT**: Another COVID survey on BH impacts. There were no differences between healthcare providers and non-providers. Respondents were more worried about others being infected or inadvertently infecting others than they were about getting infected themselves. Those with higher resilience reported fewer worries. I'm hopeful there will be a meta-analysis soon on these types of publications. They're growing in number and difficult to interpret by themselves (e.g., the sampling of some is very poor, the geographic and time frames differ). 
+
+
+***
+
+* Boutron I, Chaimani A, Meerpohl JJ, et al. The covid-nma project: Building an evidence ecosystem for the covid-19 pandemic. Ann Intern Med. 2020.
+
+    - **LINK (doi)**: http://doi.org/10.7326/M20-5261
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Boutron. 2020.pdf
+    - **COMMENT**: This commentary isn't directly related to BH or SH but it was too cool not to share. They outline a process of integrating all of the ongoing science surrounding COVID and how to use it to inform evidence-based decision making. It's a nice heuristic for how public health agencies should be operating in a perfect world. 
+
+
+***
+
+* Czeisler ME, Marynak K, Clarke KEN, et al. Delay or avoidance of medical care because of covid-19-related concerns - united states, june 2020. MMWR Morb Mortal Wkly Rep. 2020;69(36):1250-7.
+
+    - **LINK (doi)**: http://doi.org/10.15585/mmwr.mm6936a4
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Czeisler. 2020.pdf
+    - **COMMENT**: MMWR report showing that 41% of US adults delayed or avoided medical care during the pandemic, including 12% who did so for urgent/emergency care. Not related to BH or SH but worth considering what proportion of these delays were related to BH or to conditions that interact with BH (e.g., pain, injury). 
+
+
+***
+
+* Ettman CK, Abdalla SM, Cohen GH, et al. Prevalence of depression symptoms in us adults before and during the covid-19 pandemic. JAMA Netw Open. 2020;3(9):e2019686.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamanetworkopen.2020.19686
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Ettman. 2020.pdf
+    - **COMMENT**: Survey that included US samples before and during the pandemic. Depression scores were 3-times higher during the pandemic than before. Those with lower incomes, less in savings (<5K), widowed/divorced/separated/never married, and greater exposures to stress reported a greater burden of depression symptoms. 
+
+
+***
+
+* Hernandez-Calle D, Martinez-Ales G, Mediavilla R, et al. Trends in psychiatric emergency department visits due to suicidal ideation and suicide attempts during the covid-19 pandemic in madrid, spain. J Clin Psychiatry. 2020;81(5).
+
+    - **LINK (doi)**: http://doi.org/10.4088/JCP.20l13419
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/10.01.2020 - EndNote Test - DO NOT EDIT/Hernandez-Calle. 2020.pdf
+    - **COMMENT**: Presentations in the ED for suicide attempt and ideation decreased sharply during COVID in Madrid, Spain. Given all the work showing increased distress, it's not likely that these decreases reflect actual reductions in attempts and ideations but instead reluctance to seek care. I'd be very curious to replicate this for Soldiers or to see if BHD already is tracking this.
+
+
+***
+
+* Holingue C, Badillo-Goicoechea E, Riehm KE, et al. Mental distress during the covid-19 pandemic among us adults without a pre-existing mental health condition: Findings from american trend panel survey. Prev Med. 2020;139:106231.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.ypmed.2020.106231
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/10.01.2020 - EndNote Test - DO NOT EDIT/Holingue. 2020.pdf
+    - **COMMENT**:  Another COVID mental health survey, focusing on those without mental health histories. Nothing really new in this one but adding it to the growing list of papers on this topic. 
+
+
+***
+
+* Ochalek TA, Cumpston KL, Wills BK, et al. Nonfatal opioid overdoses at an urban emergency department during the covid-19 pandemic. JAMA. 2020.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jama.2020.17477
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/10.01.2020 - EndNote Test - DO NOT EDIT/Ochalek. 2020.pdf
+    - **COMMENT**:  Only looked at one hospital but shows that non-fatal opioid overdoses increased during COVID. Wonder how this issue has played out in family members of Soldiers.
+
+
+***
+
+* Pierce M, Hope H, Ford T, et al. Mental health before and during the covid-19 pandemic: A longitudinal probability sample survey of the uk population. The Lancet Psychiatry. 2020;7(10):883-92.
+
+    - **LINK (doi)**: http://doi.org/10.1016/s2215-0366(20)30308-4
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/10.01.2020 - EndNote Test - DO NOT EDIT/Pierce. 2020.pdf
+    - **COMMENT**: A more methodologically rigorous study on mental health impacts of COVID in the UK that could adjust for long-term trends and other factors. Confirmed existing health disparities and identified some new ones (e.g., those with small children at home). 
+
+
+***
+
+* Pollard MS, Tucker JS, Green HD, Jr. Changes in adult alcohol use and consequences during the covid-19 pandemic in the us. JAMA Netw Open. 2020;3(9):e2022942.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamanetworkopen.2020.22942
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/10.01.2020 - EndNote Test - DO NOT EDIT/Pollard. 2020.pdf
+    - **COMMENT**: Another study showing changes in alcohol use due to COVID. As with all the other BH COVID work, syntheses are needed!
+
+
+***
+
+* Wardell JD, Kempe T, Rapinda KK, et al. Drinking to cope during covid-19 pandemic: The role of external and internal factors in coping motive pathways to alcohol use, solitary drinking, and alcohol problems. Alcohol Clin Exp Res. 2020.
+
+    - **LINK (doi)**: http://doi.org/10.1111/acer.14425
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/10.01.2020 - EndNote Test - DO NOT EDIT/Wardell. 2020.pdf
+    - **COMMENT**: Another survey getting at COVID's impact on drinking. In this paper, the authors look specifically at drinking to cope and find that having at least 1 child under the age of 18, greater depression, and lower social connectedness were associated with drinking to cope (whereas income loss and living alone were associated with increased solitary drinking that wasn't mediated by coping). 
+
+
+***
+
+* Wasserman D. ea. Adaptation of evidence-based suicide prevention strategies during and after the covid-19 pandemic. World Psychiatry. 2020;19(3):294-306.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/10.01.2020 - EndNote Test - DO NOT EDIT/Wasserman. 2020.pdf
+    - **COMMENT**: From the author's: "This paper aims at informing the scientific community, health care professionals, policy-makers and politicians about plausible adaptations and/or reinforcements of evidence-based suicide preventive strategies, which should be undertaken due to the severe impact of the pandemic on everyday life.". Very comprehensive paper on the intersection of COVID and suicide. 
+
+
+## August 2020
+
+* Adhikari S, Pantaleo NP, Feldman JM, et al. Assessment of community-level disparities in coronavirus disease 2019 (covid-19) infections and deaths in large us metropolitan areas. JAMA Netw Open. 2020;3(7):e2016938.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamanetworkopen.2020.16938
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Adhikari. 2020.pdf
+    - **COMMENT**: Short paper showing that although income matters, racial disparities still exist in COVID-19 infection and death
+
+
+***
+
+* Burris S. Assessing legal responses to covid-19. 2020.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Burris 2020.pdf
+    - **COMMENT**: This is a huge compilation that examines and makes recommendations to improve public health law related to COVID. It covers everything under the sun. Chapters 16-18 discuss telehealth, impacts on treating opioid use disorder, and legal strategies for addressing mental health. Not military-related.
+
+
+***
+
+* Del Pozo B, Beletsky L. No "back to normal" after covid-19 for our failed drug policies. Int J Drug Policy. 2020:102901.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.drugpo.2020.102901
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Pozo. 2020..pdf
+    - **COMMENT**:  Brief commentary on how COVID-19 has created opportunities to address major failings in drug policies
+
+
+***
+
+* Slavova S, Rock P, Bush HM, et al. Signal of increased opioid overdose during covid-19 from emergency medical services data. Drug Alcohol Depend. 2020;214:108176.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.drugalcdep.2020.108176
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Slavova. 2020..pdf
+    - **COMMENT**:  In KY, there large increases post-COVID in EMS runs. Hospital data won't capture these because many refuse transportation (or sadly, die at the scene)
+
+
+***
+
+* Taylor S, Landry CA, Paluszek MM, et al. Covid stress syndrome: Concept, structure, and correlates. Depress Anxiety. 2020;37(8):706-14.
+
+    - **LINK (doi)**: http://doi.org/10.1002/da.23071
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Taylor. 2020..pdf
+    - **COMMENT**:  Do we *really* need another scale/syndrome to measure BH?!? Nevertheless, some relevant information here on the nature of stressors folks report experiencing. 
+
+
+***
+
+* Moreno C, Wykes T, Galderisi S, et al. How mental health care should change as a consequence of the covid-19 pandemic. Lancet Psychiatry. 2020;7(9):813-24.
+
+    - **LINK (doi)**: http://doi.org/10.1016/S2215-0366(20)30307-2
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Moreno. 2020..pdf
+    - **COMMENT**: Position paper on opportunities and challenges posed by COVID-19 to mental health care. One of many, many such commentaries but I pulled this one since it's Lancet. Should be very thorough! 
+
+
+***
+
+* Rodriguez LM, Litt DM, Stewart SH. Drinking to cope with the pandemic: The unique associations of covid-19-related perceived threat and psychological distress to drinking behaviors in american men and women. Addict Behav. 2020;110:106532.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.addbeh.2020.106532
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Rodriguez. 2020.pdf
+    - **COMMENT**: Survey work showing that COVID-related psychological distress is associated with alcohol use indices, corroborating several other analyses in the US and abroad. This one found that the effects were more pronounced in women. 
+
+
+***
+
+* Halford EA, Lake AM, Gould MS. Google searches for suicide and suicide risk factors in the early stages of the covid-19 pandemic. PLoS One. 2020;15(7):e0236777.
+
+    - **LINK (doi)**: http://doi.org/10.1371/journal.pone.0236777
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Halford. 2020..pdf
+    - **COMMENT**: Study looked at google search terms to determine whether searches related to suicide and suicide risk have been impacted by COVID. They observed increases for what they call more long-term risks (e.g., unemployment) vs. short-term risks (e.g., suicide methods). An interesting kind of analysis if you're not seen this type before. 

@@ -1,0 +1,130 @@
+# Army Family {#armyfamily}
+
+## April 2021
+
+* Families BS. 2020 military family lifestyle survey comprehensive report - executive summary. 2021.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_04/BSF_MFLS_CompReport_EXECSUMMARY.pdf
+    - **COMMENT**: High-level overview of concerns among active duty Soldiers and spouses, including NG/R/Veterans. 
+
+
+***
+
+* Families BS. 2020 military family lifestyle survey comprehensive reports - recommendations. 2021.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_04/BSF_MFLS_CompReport_RECOMMENDATIONS.pdf
+    - **COMMENT**: High-level recommendations from their survey findings to military leaders, congress, and state legislatures. 
+
+
+***
+
+* Krass P, Dalton E, Doupnik SK, et al. Us pediatric emergency department visits for mental health conditions during the covid-19 pandemic. JAMA Netw Open. 2021;4(4):e218533.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamanetworkopen.2021.8533
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_04/Krass. 2021.pdf
+    - **COMMENT**: Pediatric mental health is taking a huge hit during the pandemic. This article provides data on ED visits highlighting this. I wonder how our Army children are holding up...
+
+
+***
+
+* Pierce MC, Kaczor K, Lorenz DJ, et al. Validation of a clinical decision rule to predict abuse in young children based on bruising characteristics. JAMA Netw Open. 2021;4(4):e215832.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamanetworkopen.2021.5832
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_04/Pierce. 2021.pdf
+    - **COMMENT**: This is a little out of our lane but I was so fascinated by this paper, which identifies some clinical decision rules to differentiate abusive versus nonabusive trauma in children based on their bruising. I wonder what tools are used by FAP or in other military settings when Army dependents present with signs of potential abuse?
+
+
+## February 2021
+
+* AR P. Domestic violence during covid-19. 2021.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_02/Piquero. 2021.pdf
+    - **COMMENT**: Evidence synthesis by the National Commission on COVID-19 and Criminal Justice (CCJ) that shows domestic violence increased during the pandemic. Not sure if anyone's aware of how this has played out in the Army. I have not heard it discussed but imagine someone is looking at it carefully?
+
+
+## January 2021
+
+
+* Corry NH, Williams CS, Radakrishnan S, et al. Demographic variation in military life stress and perceived support among military spouses. Mil Med. 2021;186(Suppl 1):214-21.
+
+    - **LINK (doi)**: http://doi.org/10.1093/milmed/usaa386
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/JAN/Corry. 2021.pdf
+    - **COMMENT**: Paper using data from the Millennium Cohort Family Study that examined demographic factors of spouses associated with military stress and support. Interpretation of the results was tricky (see Table 3). However, a good reference and potential launching point to support future work on how spouses are impacted by military service. 
+
+
+***
+
+* Travers A, McDonagh T, Cunningham T, et al. The effectiveness of interventions to prevent recidivism in perpetrators of intimate partner violence: A systematic review and meta-analysis. Clin Psychol Rev. 2021;84:101974.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.cpr.2021.101974
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/JAN/Travers. 2021.pdf
+    - **COMMENT**: We don't do much on IPV and this is more clinical but sharing in case folks were interested in interventions to reduce repeat offending. 
+
+
+## December 2020
+
+
+* Bonnes S, Palmer JH. The u.S. Marine corps’ response to intimate partner sexual violence: An analysis of the family advocacy program and the sexual assault prevention and response program. Armed Forces & Society. 2020:0095327X2097439.
+
+    - **LINK (doi)**: http://doi.org/10.1177/0095327x20974397
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/DEC/Bonnes. 2020.pdf
+    - **COMMENT**:  This article discusses how the US military approaches domestic violence and sexual assault as distinct forms of abuse. The authors recommend that the Marine Corps (which is the service they focus on) improve recognition of the intersection of these areas. I had never even considered why or what the implications might be for housing these in two separate "areas" (FAP and SAPR). Information may be relevant for EPICONs. 
+
+
+***
+
+* Noman AHM, Griffiths MD, Pervin S, et al. The detrimental effects of the covid-19 pandemic on domestic violence against women. J Psychiatr Res. 2020;134:111-2.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.jpsychires.2020.12.057
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/DEC/Noman. 2020.pdf
+    - **COMMENT**:  Short commentary on the impact of the COVID pandemic on domestic violence. 
+
+
+***
+
+* Norona JC, Borsari B, Armstrong K, et al. Veterans’ treatment engagement and dropout from couple and family therapy in a veterans affairs health care system. Military Behavioral Health. 2020:1-15.
+
+    - **LINK (doi)**: http://doi.org/10.1080/21635781.2020.1864526
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/DEC/Norona. 2020.pdf
+    - **COMMENT**:  VA study on couple and family therapy dropout. Would be curious to see if dropout/initiation rates, which were high following a referral, are similar in the Army. 
+
+
+***
+
+* Rossetto KR, Owlett JS. Social media as an (un)supportive resource for military partners coping with military lifestyle challenges. Armed Forces & Society. 2020:0095327X2097439.
+
+    - **LINK (doi)**: http://doi.org/10.1177/0095327x20974391
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/DEC/Rossetto. 2020.pdf
+    - **COMMENT**:  Qualitative study on military partners' use of social media to cope with military lifestyle challenges. As you might expect, there are pros and cons for using social media to cope, which are discussed in detail in the paper. 
+
+
+## October 2020
+
+
+* Boltz J, Del Re AC, Koenig H, et al. Caregiver health: An epidemiological study of active duty parents with special needs children. Military Behavioral Health. 2020;8(4):364-77.
+
+    - **LINK (doi)**: http://doi.org/10.1080/21635781.2020.1825242
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/OCT/Boltz. 2020.pdf
+    - **COMMENT**: If you yourself or someone you know has children with special needs, you have a sense of just how incredibly challenging this can be. Add on many of the occupational stressors of military life and you can imagine that those may increase risks for negative health outcomes. In this study, the authors look specifically at migraines, sleep problems, and hypertension. Soldiers who had children with special needs were more likely to have migraines/sleep problems and less likely to have hypertension. It would be very interesting to research what other adverse outcomes this population might face.
+
+
+## August 2020
+
+
+* Franz MR, Kaiser AP, Phillips RJ, et al. Associations of warzone veteran mental health with partner mental health and family functioning: Family foundations study. Depress Anxiety. 2020.
+
+    - **LINK (doi)**: http://doi.org/10.1002/da.23083
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Franz. 2020..pdf
+    - **COMMENT**: BH reported by Soldiers was associated with BH and other dysfunction among spouses. Study used veteran's but illustrates how issues spill over into the family (though this was not longitudinal so no causality)
+
+
+***
+
+* Gewirtz AH, Cozza SJ, Kizer KW. The need for clinicians to recognize military-connected children. JAMA Pediatr. 2020.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamapediatrics.2020.2548
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Gewirtz. 2020.pdf
+    - **COMMENT**:  Brief commentary on the importance of asking and responding to the needs of children who have military parents. References a nice report from last year that may be of interest.

@@ -1,0 +1,63 @@
+# Depression {#depression}
+
+## December 2020
+
+* Cuijpers P, Pineda BS, Quero S, et al. Psychological interventions to prevent the onset of depressive disorders: A meta-analysis of randomized controlled trials. Clin Psychol Rev. 2020;83:101955.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.cpr.2020.101955
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/DEC/Cuijpers. 2020.pdf
+    - **COMMENT**: Large review of prevention interventions for depression. Overall, prevention interventions were associated with a 19% decrease in developing a depressive disorder. The average NNT was 21. 
+
+
+## November 2020
+
+* Davis AK, Barrett FS, May DG, et al. Effects of psilocybin-assisted therapy on major depressive disorder: A randomized clinical trial. JAMA Psychiatry. 2020.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamapsychiatry.2020.3285
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/NOV/Davis. 2020.pdf
+    - **COMMENT**:  I remember discussing the inclusion criteria for this trial's protocols way back when during our brown bag lunch meetings! Rigorous work and very promising results. "This RCT found that psilocybin-assisted therapy was efficacious in producing large, rapid, and sustained antidepressant effects in patients with major depressive disorder". 
+
+
+***
+
+* Guidi J, Fava GA. Sequential combination of pharmacotherapy and psychotherapy in major depressive disorder: A systematic review and meta-analysis. JAMA Psychiatry. 2020.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamapsychiatry.2020.3650
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/NOV/Guidi. 2020.pdf
+    - **COMMENT**:  Sequent integration of psychotherapy after acute medication was associated with reduce risk of relapse and recurrent of MDD in this large meta-analysis of 17 RCTs (2283 participants). 
+
+
+## October 2020
+
+* Rigabert A, Motrico E, Moreno-Peral P, et al. Effectiveness of online psychological and psychoeducational interventions to prevent depression: Systematic review and meta-analysis of randomized controlled trials. Clin Psychol Rev. 2020;82:101931.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.cpr.2020.101931
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/OCT/Rigabert. 2020.pdf
+    - **COMMENT**:  Online prevention interventions were found to have small effects in reducing depressive symptoms. Variability in the outcomes was explained by indicated prevention and interactive interventions (both with higher effectiveness). 
+
+
+## August 2020
+
+* Milak MS, Rashid R, Dong Z, et al. Assessment of relationship of ketamine dose with magnetic resonance spectroscopy of glx and gaba responses in adults with major depression: A randomized clinical trial. JAMA Netw Open. 2020;3(8):e2013211.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamanetworkopen.2020.13211
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Milak. 2020..pdf
+    - **COMMENT**: Ketamine's anti-depressant effects appear mediated by suppression of glutamate/glutamine
+
+
+***
+
+* Okereke OI, Reynolds CF, 3rd, Mischoulon D, et al. Effect of long-term vitamin d3 supplementation vs placebo on risk of depression or clinically relevant depressive symptoms and on change in mood scores: A randomized clinical trial. JAMA. 2020;324(5):471-80.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jama.2020.10224
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Okereke.2020.pdf
+    - **COMMENT**: Large RCT of vitamin D supplementation among older adults did not find it prevented incidence or recurrence of depression/depressive symptoms over a reasonably long follow-up around 5 years.
+
+
+***
+
+* Theriault FL, Gardner W, Momoli F, et al. Mental health service use in depressed military personnel: A systematic review. Mil Med. 2020;185(7-8):e1255-e62.
+
+    - **LINK (doi)**: http://doi.org/10.1093/milmed/usaa015
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Theriault. 2020..pdf
+    - **COMMENT**: Although not a surprise, there was a large treatment gap (less than half with depression sought care). Consistent with CIVs. Extent of the treatment gap depended on the measures used (screenings vs. diagnostic interview).

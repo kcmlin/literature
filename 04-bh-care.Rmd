@@ -1,0 +1,172 @@
+# BH Care {#bhcare}
+
+## May 2021
+
+* AM C. The promise of machine learning in predicting treatment outcomes in psychiatry. World Psychiatry. 2021;20:154-70.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_05/Chekroud. 2021.pdf
+    - **COMMENT**: A review of the use of machine learning in psychiatry, including future directions, gaps, and challenges. A nice update and expansive view on its use for BH in general (versus for suicide specifically). 
+
+
+***
+
+* Hall W. The need for publicly funded research on therapeutic use of psychedelic drugs. World Psychiatry. 2021;20(2):197-8.
+
+    - **LINK (doi)**: http://doi.org/10.1002/wps.20847
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_05/Hall. 2021.pdf
+    - **COMMENT**:  A commentary explaining why public funding (versus reliance on industry) is necessary to advance understanding of psychedelics as treatments for BH. 
+
+
+***
+
+* Mitchell JM, Bogenschutz M, Lilienstein A, et al. Mdma-assisted therapy for severe ptsd: A randomized, double-blind, placebo-controlled phase 3 study. Nat Med. 2021.
+
+    - **LINK (doi)**: http://doi.org/10.1038/s41591-021-01336-3
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_05/Mitchell. 2021.pdf
+    - **COMMENT**:  MDMA in conjunction with manualized therapy dramatically improved PTSD symptoms and functional impairment compared to therapy + placebo. To illustrate, after 3 sessions about 60% of those in MDMA group had lost the diagnosis compared to about 25% in the placebo group. Expect more of this kind of work to come out in coming years and potentially to impact the VA/DOD. 
+
+
+## April 2021
+
+* KA H. Behavioral health care in the military health system - access and quality for remote service members. 2021.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_04/Hepner. 2021.pdf
+    - **COMMENT**:  Huge report on PTSD, SUD, and depression treatment based on geographic location. Someone in BSHOP should probably read through this so we have a pulse on this topic given our past work with USAREC. 
+
+
+## March 2021
+
+* KL G. Lessons learned for provisioning and delivering us military behavioral health care, 2003-2013. 2021.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_03/Gore. 2021.pdf
+    - **COMMENT**: RAND report on lessons learned within BH care delivery in the military. Focuses on BH manpower needs and delivering BH care. Of potential interest for historical purposes and to assess to what extent the Army has adopted these lessons. 
+
+
+## January 2021
+
+* Alegria M, Frank RG, Hansen HB, et al. Transforming mental health and addiction services. Health Aff (Millwood). 2021;40(2):226-34.
+
+    - **LINK (doi)**: http://doi.org/10.1377/hlthaff.2020.01472
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/JAN/Alegria. 2021.pdf
+    - **COMMENT**: Part of the NAM's Vital Directions for Health and Health Care: Priorities for 2021. Paper runs through policy recommendations to improve BH and SUD care in several areas: improving healthcare access, decriminalization and crisis response, and social context (think SDOH). Not specific to the MIL but a nice overview of major issues facing BH/SUD care in the US. 
+
+
+***
+
+* Curley JM, Nugent KL, Clarke-Walper KM, et al. Results of the behavioral health readiness evaluation and decision-making instrument study. Mil Med. 2021;186(Suppl 1):142-52.
+
+    - **LINK (doi)**: http://doi.org/10.1093/milmed/usaa401
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/JAN/Curley. 2021.pdf
+    - **COMMENT**: WRAIR developed a tool called the Behavioral Health Readiness Evaluation and Decision-Making Instrument (B-REDI) to improve decision-making regarding BH readiness evaluations. In this study, they report on surveys from providers, who showed improvements in various domains intended to be improved by the tool. The tool is included in the paper. I'm not sure whether this tool is used currently or if the data from the tool are captured anywhere. If anyone knows more about this, please share with the group!
+
+
+## December 2020
+
+* Multiple Agencies. A unified vision for transforming mental health and substance use care. 2020.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/DEC/A Unified Vision for Transforming Mental Health and Substance Use Care.pdf
+    - **COMMENT**: This document contains critical elements identified to improve outcomes for individuals with BH and substance use disorders. Not specific to the military but has some good topics and information in here. 
+
+
+***
+
+* Bryan JL, Hogan J, Lindsay JA, et al. Cannabis use disorder and post-traumatic stress disorder: The prevalence of comorbidity in veterans of recent conflicts. Journal of Substance Abuse Treatment. 2021;122:108254.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.jsat.2020.108254
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/DEC/Bryan. 2020.pdf
+    - **COMMENT**: This study documents the high comorbidity of veterans returning from deployment who have cannabis use disorder. Among this group, 72% had PTSD and among those with PTSD and CUD, there were much additional risks for other BH disorders. Veterans with CUD are complex cases and require integrated/transdiagnostic treatment approaches. 
+
+
+***
+
+* Fojo AT, Lesko CR, Benke KS, et al. A learning algorithm for predicting mental health symptoms and substance use. J Psychiatr Res. 2020;134:22-9.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.jpsychires.2020.12.049
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/DEC/Fojo. 2020.pdf
+    - **COMMENT**: An interesting paper that used advanced learning models to predict BH and substance use symptom development in clinical populations. The authors suggest these types of algorithms can be used for patient populations to guide patient care (by estimating likely course). This made me think immediately of the BHDP data that are used and how this kind of model could be useful for the Army (which because of its unique makeup could probably never rely on a CIV one). 
+
+
+***
+
+* SAMHSA. Behavioral health workforce report. 2020.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/DEC/SAMHSA.3 2020.pdf
+    - **COMMENT**: This report estimates the number and type of various BH providers needed for evidence-based treatments for BH. Part 1 describes major models of BH care (i.e., settings/approaches for care; inpatient, crisis services, OTPs). Part 2 estimates the number of BH providers needs for 13 models of BH care, nationally. Part 3 does the same but for SUD models of care. Part 4 enumerates the supply/demand for each BH occupation. I'm curious how/if OTSG uses this information in informing their own staffing levels. The US in general is drastically understaffed. This is a pretty good read for someone who wants a high-level overview of treatment models in the US and who does them. 
+
+
+***
+
+* Vancampfort D, Stubbs B, Van Damme T, et al. The efficacy of meditation-based mind-body interventions for mental disorders: A meta-review of 17 meta-analyses of randomized controlled trials. J Psychiatr Res. 2020;134:181-91.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.jpsychires.2020.12.048
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/DEC/Vancamfort. 2020.pdf
+    - **COMMENT**: Review of mindfulness, qigonga, tai chi, and yoga and their impacts on BH disorders. There's some support for these as supplemental interventions for various disorders. 
+
+
+***
+
+* Wennberg DE KP. Too big to ignore: 7 recommendations to address our growing mental health crisis. Health Affairs Blog. 2020.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/DEC/Wennberg. 2020.pdf
+    - **COMMENT**:  TLDR: expand virtual care, pay for peer support, evaluate BH apps, invest in provider diversity, expand HITECH (health technology support bill), and transition to value-based payment models. 
+
+
+## November 2020
+
+* Batastini AB, Paprzycki P, Jones ACT, et al. Are videoconferenced mental and behavioral health services just as good as in-person? A meta-analysis of a fast-growing practice. Clin Psychol Rev. 2020;83:101944.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.cpr.2020.101944
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/NOV/Batasini. 2020.pdf
+    - **COMMENT**: Meta-analysis of videoconferencing counseling vs. in-person counseling. Results suggest outcomes are similar but there are many limitations with the studies included. Expect to see much more on these topics in the future! 
+    
+
+***
+
+* Taylor MT, Horton DB, Juliano T, et al. Outpatient prescribing of opioids to adults diagnosed with mental disorders in the united states. Drug and Alcohol Dependence. 2020:108414.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.drugalcdep.2020.108414
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/NOV/Taylor. 2020.pdf
+    - **COMMENT**: Outpatient providers are more likely to prescribe opioids to those with pain who present with mood, anxiety, and non-substance use disorders (but not for PTSD and attention disorders). Again, pulling because I wonder about the Army comparison here. If true, would be concerning, especially given the differences for some disorders (e.g., 15.4% vs 8.2% mood disorder prevalence in those who did vs. did not receive an opioid). 
+
+
+## September 2020
+
+* Aikins D.E. PRH, Geraci J.C., Benham T., Morrissey P., Southwick S.M. . Beyond stigma: Understanding the “inclined abstainers” in military behavioral health-care utilization. Military Psychology. 2020;In press(In press):In press.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Aikens. 2020.pdf
+    - **COMMENT**: This observational study looked at factors that differentiate those with PTSD who need treatment and seek it (inclined actors) and those who don't seek it (inclined abstainers). 63% had PTSD and wanted treatment but didn't seek it. Inclined abstainers were more likely to endorse negative opinions about BH therapy and reported higher resilience and higher PTSD symptoms. Understanding and targeting interventions to get folks who have diagnoses and express a need is critical! 
+
+
+***
+
+* Compton MT, Shim RS. Mental illness prevention and mental health promotion: When, who, and how. Psychiatr Serv. 2020;71(9):981-3.
+
+    - **LINK (doi)**: http://doi.org/10.1176/appi.ps.201900374
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Compton. 2020.pdf
+    - **COMMENT**:  Brief commenary on integrating a SDOH framework into psychiatry.
+
+
+## August 2020
+
+* Duncan JM, Reed-Fitzke K, Ferraro AJ, et al. Identifying risk and resilience factors associated with the likelihood of seeking mental health care among u.S. Army soldiers-in-training. Mil Med. 2020;185(7-8):e1247-e54.
+
+    - **LINK (doi)**: http://doi.org/10.1093/milmed/usz483
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Duncan. 2020..pdf
+    - **COMMENT**:  Secondary analysis of STARRS data looking at predictors of treatment seeking among new soldiers. Identified several risk/protective factors. 
+
+
+***
+
+* General I. Evaluation of access to mental health care in the department of defense (dodig-2020-112). 2020.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Inspector General. DOD.2020..PDF
+    - **COMMENT**:  
+Eren's sent this out previously. IG report that found significant shortcomings in several areas (access, proper documentation, etc)

@@ -1,0 +1,216 @@
+# BH Interdisciplinary {#interdisciplinary}
+
+## May 2021
+
+* Agteren. A systematic review and meta-analysis of psychological interventions to improve mental well-being. Nature Human Behavior. 2021.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_05/Agteren. 2021.pdf
+    - **COMMENT**: MASSIVE meta-analysis of 419 RCTs evaluating impacts on mental health. Apologies for the formatting of the PDF. I was unable to find a better copy. 
+
+
+***
+
+* Fusar-Poli. Preventive psychiatry: A blueprint for improving the mental health of young people. World Psychiatry. 2021;20:200-21.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_05/Fusar-Poli. 2021.pdf
+    - **COMMENT**:  Thorough paper on the role of prevention in psychiatry. The authors review prevention frameworks and the evidence to support prevention of common mental health disorders in young people. They use this information to suggest a blueprint for future work and collaboration to improve prevention efforts. 
+
+
+***
+
+* Krueger. Validity and utility of hierarchical taxonomy of psychopathology (hitop): 2: Externalizing superspecrum. World Psychiatry. 2021;20:171-93.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_05/Krueger. 2021.pdf
+    - **COMMENT**:  I believe that I pulled the first article from this workshop and that it included internalizing disorders. This paper looks at the application of a new taxonomy for mental disorders as it applies to externalizing disorders. Very detailed and perhaps too in the weeds for most of us but sharing nevertheless. 
+
+
+***
+
+* Murray RM, Cannon M. Public health psychiatry: An idea whose time has come. World Psychiatry. 2021;20(2):222-3.
+
+    - **LINK (doi)**: http://doi.org/10.1002/wps.20868
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_05/Murray. 2021.pdf
+    - **COMMENT**: A commentary on this month's prevention article (Fusar-Poli et al.), and a call to action for more prevention work in pyschiatry. 
+
+
+***
+
+* SAMHSA. Prevention core competencies. 2021.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_05/SAMHSA. 2021.pdf
+    - **COMMENT**: SAMHSA put together a fantastic list of KSAs that those working in substance use and/or mental health prevention should have. As the Army may (hopefully) pivot to more prevention, these skillsets will become all the more relevant and important. 
+
+
+## April 2021
+
+* N O-F. Indirect effects of soldier healthy eating and physical activity on suicidal ideation through psychological health symptoms in active-duty military. military Psychology. 2021.
+
+    - **LINK (doi)**: http://doi.org/10.1080/08995605.2021.1902180
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_04/Oakey-Frost. 2021.pdf
+    - **COMMENT**: Study shows that healthy eating impacts anxiety (GAD) which may reduce suicidal ideation. Underscores importance of P3 for not just physical but mental health. 
+
+
+***
+
+* SO M. 2018 department of defense health related behaviors survey (hrbs). 2021.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_04/Rand. 2021.pdf
+    - **COMMENT**: The 2018 report has finally arrived! This will contain the best estimates for many BH/SH outcomes for the Army. I expect to see a lot of publications on subtopics in the coming months from this. Highly recommend!
+
+
+## March 2021
+
+* Olfson M, Cosgrove C, Altekruse SF, et al. Deaths of despair: Adults at high risk for death by suicide, poisoning, or chronic liver disease in the us. Health Aff (Millwood). 2021;40(3):505-12.
+
+    - **LINK (doi)**: http://doi.org/10.1377/hlthaff.2020.01573
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_03/Olfson. 2021.pdf
+    - **COMMENT**: By now, you've probably heard the term "deaths of despair" (deaths by suicide, overdose, and liver disease concentrated among middle-aged white working-class people). This study looks at multiple risk factors, including military service and finds that unadjusted rates for suicide and liver disease are higher, whereas overdose is lower. The effects change in adjusted models suggesting that the risk may be explained by other factors (like sex, age). 
+
+
+***
+
+* JM O. Tired and angry: Sleep, mental health, and workplace relational aggression. military Psychology. 2021;33(2):80-91.
+
+    - **LINK (doi)**: http://doi.org/10.1080/08995605.2021.1897490
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_03/Osgood. 2021.pdf
+    - **COMMENT**: WRAIR study shows that poor sleep is an upstream factor that contributes to relational aggression in the workplace (military sample). 
+
+
+***
+
+* Slep AMS, Heyman RE, Lorber MF, et al. The impact of north star on suicidality, substance problems, intimate partner violence, and child abuse. Mil Med. 2021;186(3-4):e351-e8.
+
+    - **LINK (doi)**: http://doi.org/10.1093/milmed/usaa380
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_03/Slep. 2021.pdf
+    - **COMMENT**: Study reports the now-dated results of an Air Force community prevention effort. The effort reduced hazardous drinking but not other outcomes. I pulled this because it was a broad-based intervention to target IPV, suicide, substance use, and child abuse. 
+
+
+## February 2021
+
+* D F. How leisure activities affect health: A narrative review and multi-level theoretical framework of mechanisms of action. Lancet Psychiatry. 2021;8:329-39.
+
+    - **LINK (doi)**: http://doi.org/10.1016/S2215-0366(20)30384-9
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_02/Fancourt. 2021.pdf
+    - **COMMENT**: Paper that looks at how and in what ways leisure activities affect mental health. We know this as common knowledge but it was interesting to see this broken down so completely. 
+
+
+***
+
+* Moore BA, Tison LM, Palacios JG, et al. Incidence of insomnia and obstructive sleep apnea in active duty united states military service members. Sleep. 2021.
+
+    - **LINK (doi)**: http://doi.org/10.1093/sleep/zsab024
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_02/Moore. 2021.pdf
+    - **COMMENT**: Study documenting dramatic rise in sleep apnea and insomnia from 2005-2009. 
+
+
+***
+
+* Narayan AJ, Lieberman AF, Masten AS. Intergenerational transmission and prevention of adverse childhood experiences (aces). Clin Psychol Rev. 2021;85:101997.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.cpr.2021.101997
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_02/Narayan. 2021.pdf
+    - **COMMENT**:  I thought this would be of interest to the ACE work. Given the strong link between military parents and joining the military, there are very strong arguments to be made on disrupting this chain. 
+
+
+## January 2021
+
+* Kasuske LM, Hoover P, Wu T, et al. Burden of behavioral health comorbidities on outpatient health care utilization by active duty service members with a first documented mTBI. Mil Med. 2021;186(Suppl 1):567-71.
+
+    - **LINK (doi)**: http://doi.org/10.1093/milmed/usaa320
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/JAN/Kasuske. 2021.pdf
+    - **COMMENT**: 17% of active duty Servicemembers were diagnosed with a new BH condition in the year following their first mild TBI diagnosis. 
+
+
+***
+
+* M. S. Opioid and nonpharmacological treatments among soldiers with chronic pain and posttraumatic stress disorder. Psychiatr Serv. 2021;Online first.
+
+    - **LINK (doi)**: http://doi.org/10.1176/appi.ps.201900303)
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/JAN/Saadoun. 2021.pdf
+    - **COMMENT**:  This study examined opioid prescribing, chronic pain, nonpharmacological treatment, and PTSD in Soldiers returning from deployment. About 1 in 10 Soldiers received a chronic pain diagnosis vs 1 in 20 for chronic pain. Among those with both conditions (2% of total), most received nonpharmacological treatment for pain and about 1/3rd received opioids > 30 days. Comorbid PTSD was a risk factor for receiving opioids > 30 days, whereas nonpharmacological treatment was protective. 
+
+
+***
+
+* Yang L XB, Zhao M, Magnussen CG. Association of sleep duration with all-cause and disease-specific mortality in us adults. J Epidemiol Community Health. 2021;0:1-6.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/JAN/Yang. 2021.pdf
+    - **COMMENT**: This large cohort study documented the J-shaped association between sleep duration and mortality (all cause, CVD, and cancer), with those sleeping around 7 hours having the lowest risks. This study makes me wonder whether the poor sleep habits that we see in Soldiers resolve when they leave the service and if not, what kind of long-term impact that has on our Veteran's mortality. 
+
+## November 2020
+
+* Kim-Mozeleski JE, Poudel KCP, Tsoh JYP. Examining reciprocal effects of cigarette smoking, food insecurity, and psychological distress in the u.S. J Psychoactive Drugs. 2020:1-8.
+
+    - **LINK (doi)**: http://doi.org/10.1080/02791072.2020.1845419
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/NOV/Kim-Moleski. 2020.pdf
+    - **COMMENT**: Authors suggests (using cross-lagged data) that smoking exacerbates food insecurity, food insecurity exacerbates psychological distress, and that psychological distress exacerbates smoking. Not a good cycle. Pulled this because when/if we look into food insecurity, smoking is something to consider. It's an enormous cost for low-income populations. 
+
+
+***
+
+* Lawrence KG, Kresovich JK, O'Brien KM, et al. Association of neighborhood deprivation with epigenetic aging using 4 clock metrics. JAMA Netw Open. 2020;3(11):e2024329.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamanetworkopen.2020.24329
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/NOV/Lawrence. 2020.pdf
+    - **COMMENT**:  A bit off-topic but looks at the association of neighborhood deprivation with measures of epigenetic aging. I'd heard of telomere length as a mechanism for this but wasn't aware of those used in this study. You can (sadly) guess the results - most of the measures were associated with being in a more deprived neighborhood. 
+
+
+***
+
+* Zulman DM, Maciejewski ML, Grubber JM, et al. Patient-reported social and behavioral determinants of health and estimated risk of hospitalization in high-risk veterans affairs patients. JAMA Netw Open. 2020;3(10):e2021457.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamanetworkopen.2020.21457
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/NOV/Zulman. 2020.pdf
+    - **COMMENT**: There's growing interest and research supporting documentation of social health factors in patient medical records. This study showed that including patient-reported social determinants of health in a medical record could improve estimates of 3 and 6 month hospitalization risk among Veterans flagged as high-risk. I wonder how a similar study would look in the Army and whether there would be extra value in using SDOH to predict other military outcomes (e.g., readiness, separation). 
+
+
+## October 2020
+
+* Simpson CA, Diaz-Arteche C, Eliby D, et al. The gut microbiota in anxiety and depression – a systematic review. Clinical Psychology Review. 2020:101943.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.cpr.2020.101943
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/OCT/Sampson. 2020.pdf
+    - **COMMENT**: A bit off-topic but of potential interest to some. This review looks at the differences in gut microbiota between individuals with depression and anxiety (or both). Very detailed and definitely an emerging area with relevance (possibly, more understanding on mechanisms needed) to nutrition/diet/stress. 
+
+
+***
+
+* Plana-Ripoll O. ea. Nature and prevalence of combinations of mental disorders and their association with excess mortality in a population-based cohort study. World Psychiatry. 2020;In press(In press):In press.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/10.01.2020 - EndNote Test - DO NOT EDIT/Plana-Ripoll. 2020.pdf
+
+    - **COMMENT**: Danish registry study that illustrates the relationships between comorbid mental health conditions and mortality. The figures in this paper are super interesting!
+
+
+## September 2020
+
+* Firth J, Solmi M, Wootton RE, et al. A meta-review of "lifestyle psychiatry": The role of exercise, smoking, diet and sleep in the prevention and treatment of mental disorders. World Psychiatry. 2020;19(3):360-80.
+
+    - **LINK (doi)**: http://doi.org/10.1002/wps.20773
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Firth. 2020.pdf
+    - **COMMENT**: Comprehensive meta-review of the causal role of physical activity, sleep, dietary patterns, and smoking on risk for and treatment outcomes of mental disorders. Kelly, I saw this and immediately thought of you! 
+
+
+## August 2020
+
+* Hayes JF, Hoggatt KJ, Breland JY. Mental health diagnostic patterns in behavioral weight loss program attendees. Mil Med. 2020;185(7-8):e1263-e70.
+
+    - **LINK (doi)**: http://doi.org/10.1093/milmed/usaa046
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Hayes. 2020. (2).pdf
+    - **COMMENT**: Used a veteran population but I imagine similar issues exist within the Army re: overlap of BH and obesity. A potential area for future study and consideration (e.g., protective effects of obesity-focused initiatives on BH and vice versa). 
+
+
+***
+
+* Lin KH, Chen YJ, Yang SN, et al. Association of psychological stress with physical fitness in a military cohort: The chief study. Mil Med. 2020;185(7-8):e1240-e6.
+
+    - **LINK (doi)**: http://doi.org/10.1093/milmed/usz469
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Lin. 2020..pdf
+    - **COMMENT**: Study in Taiwanese military looking at relationship between stress and physical performance. Higher stress was associated with poorer cardiorespiratory fitness (running) but not sit-ups or push-ups. Saved in case we want to explore overlaps with BH/physical health (and injury)

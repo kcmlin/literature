@@ -1,0 +1,789 @@
+# Drug and Alcohol {#drugalcohol}
+
+## May 2021
+
+* Adams RS, Garnick DW, Harris AHS, et al. Assessing the postdeployment quality of treatment for substance use disorders among army enlisted soldiers in the military health system. J Subst Abuse Treat. 2020;114:108026.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.jsat.2020.108026
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_05/Adams. 2021.pdf
+    - **COMMENT**:  A rare look at the substance use treatment outcomes within the Army. Following return from deployment, those in the AC versus NG/R were more likely to initiate and engage in treatment. Having an index diagnosis in a specialty BH setting was the strongest predictor of engaging in treatment. The data are old (2008-2011) but the integration of SUDCC and BH has hopefully driven up initiation and engagement. If anyone's used the HEDIS measures, please email me as I have questions about them! 
+
+
+***
+
+* Bentzley BS, Han SS, Neuner S, et al. Comparison of treatments for cocaine use disorder among adults: A systematic review and meta-analysis. JAMA Netw Open. 2021;4(5):e218049.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamanetworkopen.2021.8049
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_05/Bentzley. 2021.pdf
+    - **COMMENT**: In this large meta-analysis of 157 clinical trials, contingency management was the only approach associated with negative cocaine urinalysis results. 
+
+
+***
+
+* Delgado MK, Shofer F, Wetherill R, et al. Accuracy of consumer-marketed smartphone-paired alcohol breath testing devices: A laboratory validation study. Alcohol Clin Exp Res. 2021;45(5):1091-9.
+
+    - **LINK (doi)**: http://doi.org/10.1111/acer.14597
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_05/Delgado. 2021.pdf
+    - **COMMENT**: Intended for researchers/clinicians but consumer-marketed BAC devices deviate from gold standard BAC measures!
+
+
+***
+
+* DiMaggio. The role of alcohol and others drugs on emergency department traumatic injury mortality in the united states. Drug Alcohol Depend. 2021.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.drugalcdep.2021.108763
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_05/DiMaggio. 2021.pdf
+    - **COMMENT**: Nationally representative data show an increase in alcohol and drug-related ED injury discharges from 2006-2012. The risk of traumatic injury death is increased in alcohol and drug-related injuries. I pulled this because I was unaware that there was actually a debate about the role of alcohol/drugs in the mortality in trauma cases in EDs. 
+
+
+***
+
+* Kilian C, Manthey J, Carr S, et al. Stigmatization of people with alcohol use disorders: An updated systematic review of population studies. Alcohol Clin Exp Res. 2021;45(5):899-911.
+
+    - **LINK (doi)**: http://doi.org/10.1111/acer.14598
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_05/Kilian. 2021.pdf
+    - **COMMENT**: SUDs include additional stigma above and beyond BH. From the abstract: "Compared to substance-unrelated mental disorders, persons with AUD were generally less likely to be considered mentally ill, while they were perceived as being more dangerous and responsible for their condition. Further, the public desire for social distance was consistently higher for people with AUD." AUDs and DUDs didn't differ.
+
+
+***
+
+* Magill E. The principles and practices of psychoeducation with alcohol and drug use disorders: A review and brief guide. J Subst Abuse Treat. 2021.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.jsat.2021.108442
+10.1016/
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_05/Magill. 2021.pdf
+    - **COMMENT**: Psychoeducation is a "brief process of therapy focused on the communication of varied aspects of disease- and/or treatment-related information". In the Army, it's carried out through the ADAPT program. This paper reviews the literature on psychoeducation and identifies key principles and practices across methods. 
+
+
+***
+
+* Matson TE, Carrell DS, Bobb JF, et al. Prevalence of medical cannabis use and associated health conditions documented in electronic health records among primary care patients in washington state. JAMA Netw Open. 2021;4(5):e219375.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamanetworkopen.2021.9375
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_05/Matson. 2021.pdf
+    - **COMMENT**: Applicable for Veterans but sharing because all of our Soldiers will be them some day! EHR study showing that patients using medical cannabis have conditions for which it might be indicated but also contraindications that should be discussed. 
+
+
+***
+
+* McNeely J, Adam A, Rotrosen J, et al. Comparison of methods for alcohol and drug screening in primary care clinics. JAMA Netw Open. 2021;4(5):e2110721.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamanetworkopen.2021.10721
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_05/McNeely. 2021.pdf
+    - **COMMENT**: A real world multi-site quality improvement study on drug and alcohol screening in primary care. Suggest (intuitively) that screening at every visit will lead to higher screening rates than annual screenings. Re-emphasizes the need for screenings to be self-administered (versus staff-administered), as detection rates were higher among the self-administered sites. 
+
+
+***
+
+* Mintz CM, Hartz SM, Fisher SL, et al. A cascade of care for alcohol use disorder: Using 2015-2019 national survey on drug use and health data to identify gaps in past 12-month care. Alcohol Clin Exp Res. 2021.
+
+    - **LINK (doi)**: http://doi.org/10.1111/acer.14609
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_05/Mintz. 2021.pdf
+    - **COMMENT**:  Nice study using NSDUH data to characterize the alcohol cascade of care. Originally applied to HIV, this framework has been useful for OUD and now here to highlight the well-known gap in the Screening, Brief Intervention, and Referral to Treatment (and engagement) for alcohol. The gaps in the cascade have been shown previously in the Army but with older data. Would be nice to take a look at more recent data. A major takeaway is that there's a massive gap between screening and any kind of meaningful intervention (counseling, referral, treatment, etc). 
+
+
+***
+
+* O'Donaghue. Trends in filled naloxone prescriptions before and during the covid-19 pandemic. JAMA Health Forum. 2021.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamahealthforum.2021.0393
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_05/O'Donaghue. 2021.pdf
+    - **COMMENT**: Brief report documents decreases in filled nlx prescriptions that were not explained by decreases in opioid prescribing. Although nlx is dispensed outside of pharmacies, this drop is one of many factors that might explain the drug overdose epidemic that only got worse during covid. 
+
+
+***
+
+* E. P. The number needed to prescribe - what would it take to expand access to buprenorphine? N Engl J Med. 2021;384(19):1783-4.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_05/Poorman. 2021.pdf
+    - **COMMENT**:  Brief commenary on recent laws to expand buprenorphine prescribing. This about sums it up: "Loosening restrictions will lead to some progress. But much of the effort to expand buprenorphine prescribing and access will depend on physicians believing that people with a substance use disorder aren’t just “addicts,” but are people with a chronic medical disease that we can and should treat — and backing up this belief with our prescriptions."
+
+
+***
+
+* Livne. Religiosity and substance use in us adults: Findings from a large-scale national survey. Drug Alcohol Depend. 2021.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.drugalcdep.2021.108796
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_05/New folder/Livne. 2021.pdf
+    - **COMMENT**: NESARC study showing that frequency of religious service attendance was protective for SUDs (but importance of religion and religious affiliation were not). There's a huge literature showing that access to activities that are inconsistent or don't promote drug/alcohol use (e.g., going to church, mosque, etc!) decrease drug/alcohol use. 
+
+
+***
+
+* Midgette G, Kilmer B. Can novel "swift-certain-fair" programs work outside of pioneering jurisdictions? An analysis of 24/7 sobriety in montana, USA. Addiction. 2021.
+
+    - **LINK (doi)**: http://doi.org/10.1111/add.15584
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_05/New folder/Midgette. 2021.pdf
+    - **COMMENT**:  Some folks at RAND have been evaluating a swift, certain, fair program (SCF) for DUIs. I've followed this a bit more closely because its approach (frequent monitoring, punitive) does seem like something that could be piloted in the military (perhaps for drinking-related incidents as opposed to DUIs). 
+
+
+***
+
+* Murphy CE, Wang RC, Montoy JC, et al. Effect of extended-release naltrexone on alcohol consumption: A systematic review and meta-analysis. Addiction. 2021.
+
+    - **LINK (doi)**: http://doi.org/10.1111/add.15572
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_05/New folder/Murphy. 2021.pdf
+    - **COMMENT**:  Extended-release (injectable) naltrexone decreases heavy drinking days and the number of drinking days, but the effect sizes are modest. Nice to see some numbers put on the effect sizes here. AUD medications are under prescribed in general but this shows clearly that they have a positive effect.  
+
+
+## April 2021
+
+
+* Fairbairn CE, Bosch N. A new generation of transdermal alcohol biosensing technology: Practical applications, machine learning analytics, and questions for future research. Addiction. 2021.
+
+    - **LINK (doi)**: http://doi.org/10.1111/add.15523
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_04/Fairbairn. 2021.pdf
+    - **COMMENT**: Review of transdermal alcohol monitors and research. Not directly applicable to our work at the moment but an interesting area in general that someday may trickle down into our work.
+
+
+## March 2021
+
+
+* Fairley M, Humphreys K, Joyce VR, et al. Cost-effectiveness of treatments for opioid use disorder. JAMA Psychiatry. 2021.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamapsychiatry.2021.0247
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_03/Fairley. 2021.pdf
+    - **COMMENT**: Detailed cost-effectiveness study for OUD. Expanding medications for OUD, overdose education and naloxone, and contingency management are all cost-effective (and life-saving)
+
+
+***
+
+* Peterson C, Li M, Xu L, et al. Assessment of annual cost of substance use disorder in us hospitals. JAMA Netw Open. 2021;4(3):e210242.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamanetworkopen.2021.0242
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_03/Peterson. 2021.pdf
+    - **COMMENT**: Study estimates the annual medical costs of SUDs in US hospitals to be 13.2 billion. Costs per encounter were relatively similar across substances but because of higher encounters, total alcohol costs were 3x higher than the next closest substance (opioids). 
+
+
+***
+
+* Strain EC. Hegemony, homogeneity, and dsm-5 sud. Drug Alcohol Depend. 2021;221:108660.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.drugalcdep.2021.108660
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_03/Strain. 2021.pdf
+    - **COMMENT**:  A nice commentary on the strengths and limitations of DSM 5 for SUDs. 
+
+
+***
+
+* ND V. Prevalence of substance use disorders by time since first substance use among young people in the us. JAMA Psychiatry. 2021.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_03/Volkow. 2021.pdf
+    - **COMMENT**: Brief report demonstrating and emphasizing the relationship between earlier drug use and development of SUDs. Supports screening in adolescence. 
+
+
+## February 2021
+
+* Beetham T, Saloner B, Gaye M, et al. Admission practices and cost of care for opioid use disorder at residential addiction treatment programs in the us. Health Aff (Millwood). 2021;40(2):317-25.
+
+    - **LINK (doi)**: http://doi.org/10.1377/hlthaff.2020.00378
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_02/Beetham. 2021.pdf
+    - **COMMENT**: This study identified worrying practices used by residential programs for OUD (e.g., admitting patients without an intake evaluation, requiring high upfront payments). 
+
+
+***
+
+* Gray JC, Larson MJ, Moresco N, et al. The association of engagement in substance use treatment with negative separation from the military among soldiers with post-deployment alcohol use disorder. Drug Alcohol Depend. 2021;221:108647.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.drugalcdep.2021.108647
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_02/Gray. 2021.pdf
+    - **COMMENT**: Soldiers with AUD post-deployment initiated (40%) and engaged (24%) in SUD treatment at low levels. Those who engaged in treatment were more likely to have a negative separation compared to those who did not engage in treatment. 
+
+
+***
+
+* Hughto JMW, Quinn EK, Dunbar MS, et al. Prevalence and co-occurrence of alcohol, nicotine, and other substance use disorder diagnoses among us transgender and cisgender adults. JAMA Netw Open. 2021;4(2):e2036512.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamanetworkopen.2020.36512
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_02/Hughto. 2021.pdf
+    - **COMMENT**: Compared to cisgender adults, transgender adults have much higher SUDs (nicotine, alcohol, and drugs)
+
+
+***
+
+* McKay JR. Impact of continuing care on recovery from substance use disorder. Alcohol Res. 2021;41(1):01.
+
+    - **LINK (doi)**: http://doi.org/10.35946/arcr.v41.1.01
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_02/McKay. 2021.pdf
+    - **COMMENT**: Review of continuing care in addictions. I don't have a great sense of how well the Army implements these approaches. I know it's gotten much better than the past (when one could "graduate" treatment) though. 
+
+
+***
+
+* Stanciu CN, Brunette MF, Teja N, et al. Evidence for use of cannabinoids in mood disorders, anxiety disorders, and ptsd: A systematic review. Psychiatr Serv. 2021;72(4):429-36.
+
+    - **LINK (doi)**: http://doi.org/10.1176/appi.ps.202000189
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_02/Stanciu. 2021.pdf
+    - **COMMENT**: There's insufficient evidence that cannabinoids (THC or CBD) reduce symptoms for mood, anxiety, or posttraumatic stress disorders. 
+
+
+***
+
+* Vest BM, Brady LA, Brimmer MJ, et al. Variations in risk and motivations for substance use over the course of military service. Substance use & misuse. 2021;56(4):559-66.
+
+    - **LINK (doi)**: http://doi.org/10.1080/10826084.2021.1887257
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_02/Vest. 2021.pdf
+    - **COMMENT**: Qualitative study that highlights how the military lifespan interacts with substance use.
+
+
+***
+
+* Vivolo-Kantor AM. Defining indicators for drug overdose emergency department visits and hospitalizations in icd-10-cm coded discharge data. Inj Prev. 2021;27:i56-i61.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_02/Vivolo-Kantor. 2021.pdf
+    - **COMMENT**:  Paper gives detailed review of CDC guidance on coding overdose data. Could be useful to have on hand for substance use work. Would also seem to be something that could be tracked on some recurring basis for monitoring/surveillance. 
+
+
+***
+
+* Warren EC, Kolodny A. Trends in heroin treatment admissions in the united states by race, sex, and age. JAMA Netw Open. 2021;4(2):e2036640.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamanetworkopen.2020.36640
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_02/Warren. 2021.pdf
+    - **COMMENT**: Study shows some interesting differences in treatment admission by age and race. There are a lot of ways to interpret these. 
+
+
+## January 2021
+
+
+* Compton WM, Valentino RJ, DuPont RL. Polysubstance use in the U.S. Opioid crisis. Mol Psychiatry. 2021;26(1):41-50.
+
+    - **LINK (doi)**: http://doi.org/10.1038/s41380-020-00949-3
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/JAN/Compton. 2021.pdf
+    - **COMMENT**: Short perspective highlighting why it's important to consider polysubstance use in addressing the opioid epidemic. 
+
+
+***
+
+* Han B CJ, Etz K. Methamphetamine overdose deaths in the US by sex and race and ethnicity. JAMA Psychiatry. 2021;Online first.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/JAN/Han. 2021.pdf
+    - **COMMENT**: Brief report documenting increase in methamphetamine-related overdoses. This has been on the radar for some time. This study doesn't address it but there are some gaps in terms of understanding if this is driven by fentanyl tampering in stimulant supply. The last thing the US needs is a stimulant-type epidemic for which there are no medications to use for treatment. 
+
+
+***
+
+* Hoopsick RA, Homish DL, Vest BM, et al. Resilience to hazardous drinking among never-deployed male United States army reserve and national guard soldiers. Alcohol Clin Exp Res. 2021.
+
+    - **LINK (doi)**: http://doi.org/10.1111/acer.14561
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/JAN/Hoopsick. 2021.pdf
+    - **COMMENT**: Super small sample but showed that marital satisfaction and "psychological hardiness" buffered some emotional effects on some measures related to hazardous drinking. Not a lot out there with this population (Reserve/NG) so pulled it, even though it's a bit complicated. 
+
+
+***
+
+* Rogers AH, Zvolensky MJ, Ditre JW, et al. Association of opioid misuse with anxiety and depression: A systematic review of the literature. Clin Psychol Rev. 2021;84:101978.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.cpr.2021.101978
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/JAN/Rogers. 2021.pdf
+    - **COMMENT**: A useful reference should we do work at the intersection of OUD and anxiety/depression. 
+
+
+***
+
+* Rowe CL, Santos G-M, Kornbluh W, et al. Using icd-10-cm codes to detect illicit substance use: A comparison with retrospective self-report. Drug and Alcohol Dependence. 2021:108537.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.drugalcdep.2021.108537
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/JAN/Rowe. 2021.pdf
+    - **COMMENT**: Comparison of ICD codes with self-reported drug use in ED setting. I don't think we would ever use them this way but they (ICD codes) are not useful measures of substance use. 
+
+
+## December 2020
+
+
+* Arkell TR, Vinckenbosch F, Kevin RC, et al. Effect of cannabidiol and delta9-tetrahydrocannabinol on driving performance: A randomized clinical trial. JAMA. 2020;324(21):2177-86.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jama.2020.21218
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/DEC/Arkell. 2020.pdf
+    - **COMMENT**: Nice crossover study looking at impacts of CBD and CBD/THC combinations on driving performance. Showed that CBD-dominant use didn't impair driving performance (with some caveats, particularly with CBD:THC ratios matching real-world scenarios).
+
+
+***
+
+* Ochalek TA, Cumpston KL, Wills BK, et al. Nonfatal opioid overdoses at an urban emergency department during the covid-19 pandemic. JAMA. 2020.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jama.2020.17477
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/DEC/Cance. 2020.pdf
+    - **COMMENT**: Brief report investigating changes in outpatient buprenorphine dispensing in Texas after federal regulations relaxed prescribing laws because of COVID. There was an increase in new patients but a decrease in existing patients. The data aren't very detailed (from a PDMP) and it's hard to make sense of what drove each of these. Regardless, hopefully COVID will lead to new federal laws that put fewer limits on this lifesaving treatment. 
+
+
+***
+
+* Kosten TR, Petrakis IL. The hidden epidemic of opioid overdoses during the coronavirus disease 2019 pandemic. JAMA Psychiatry. 2020.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamapsychiatry.2020.4148
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/DEC/Kosten. 2020.pdf
+    - **COMMENT**:  An interesting commentary that weaves together the COVID pandemic and the long history of vaccine development for addictions, which have not progressed as one would hope. 
+
+
+***
+
+* Mintz CM, Hartz SM, Fisher SL, et al. A cascade of care for alcohol use disorder: Using 2015-2018 national survey on drug use and health data to identify gaps in care. medRxiv. 2020.
+
+    - **LINK (doi)**: http://doi.org/10.1101/2020.10.30.20222695
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/DEC/Mintz. 2020.pdf
+    - **COMMENT**: I don't normally do pre-prints but this one was relevant to an ongoing DOD IG audit on alcohol screening and access to treatment for AUDs. Nationally, there's decent coverage for screening but the translation of at-risk individuals into brief intervention and treatment is extremely low. This problem exists in the military as well. 
+
+
+***
+
+* Morgan JR, Barocas JA, Murphy SM, et al. Comparison of rates of overdose and hospitalization after initiation of medication for opioid use disorder in the inpatient vs outpatient setting. JAMA Netw Open. 2020;3(12):e2029676.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamanetworkopen.2020.29676
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/DEC/Morgan. 2020.pdf
+    - **COMMENT**: Observational comparative effectiveness study of inpatient versus outpatient care for OUD. Outpatient care had lower risks of hospitalizations and overdoses. Patients were matched using propensity scores. This study supports increasing capacity for outpatient treatment, particularly with medications, and careful consideration of what subgroups need and would benefit from inpatient treatment. 
+
+
+***
+
+* Pearson MR, Wilson AD, Richards DK, et al. Reconsidering alcohol treatment non-responders: Psychosocial functioning among heavy drinkers 3 years following treatment. Addiction. 2020.
+
+    - **LINK (doi)**: http://doi.org/10.1111/add.15280
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/DEC/Perason. 2020.pdf
+    - **COMMENT**: The last author on this has been leading a charge for several years now highlighting the heterogeneity in outcomes after alcohol use disorder treatment and challenging the long-standing tradition of using alcohol consumption alone as a treatment success measure. This study shows that high functioning non-responders (i.e., those who do not maintain low drinking levels or complete abstinence) maintained their high functioning status for an additional 2 years. The messaging from a public health perspective versus an individual patient perspective gets messy (but such is life sometimes!). 
+
+
+***
+
+* SAMHSA. Preliminary data from the drug abuse warning network - april 2019-october 2020. 2020.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/DEC/SAMHSA. 2020.pdf
+    - **COMMENT**: This report describes findings from a national sentinel hospital-based surveillance system. This system was offline for a while but re-instated recently. Pulled this because in the event there is future tampering of drug supply that impact Soldiers (likely), this system should be among the first to detect it and other details (trend, regions, etc). 
+
+
+***
+
+* Santo T, Jr., Campbell G, Gisev N, et al. Prevalence of childhood maltreatment among people with opioid use disorder: A systematic review and meta-analysis. Drug Alcohol Depend. 2020;219:108459.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.drugalcdep.2020.108459
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/DEC/Santo. 2020.pdf
+    - **COMMENT**: Super comprehensive systematic review and meta-analysis of child maltreatment among persons with OUD. Prevalence rates of abuse are astronomical: women, sexual abuse = 41%; men, sexual abuse = 16%; men and women, physical (43%), emotional (38%), physical (neglect) = 42%, and emotional neglect = 42%. Trauma plays such a huge role in OUD. I think providers know this but the general public and in the military commanders, my guess is less do. 
+
+
+***
+
+* Scherrer JF, Tucker J, Salas J, et al. Comparison of opioids prescribed for patients at risk for opioid misuse before and after publication of the centers for disease control and prevention's opioid prescribing guidelines. JAMA Netw Open. 2020;3(12):e2027481.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamanetworkopen.2020.27481
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/DEC/Scherrer. 2020.pdf
+    - **COMMENT**: Some of you may remember when the CDC released new prescribing guidelines for opioids way back in 2016. This study finds that there were no differences in prescribing opioids following those recommendations for patients at risk for opioid misuse. 
+
+
+***
+
+* Weerakoon SM, Jetelina KK, Knell G. Longer time spent at home during covid-19 pandemic is associated with binge drinking among us adults. Am J Drug Alcohol Abuse. 2020:1-9.
+
+    - **LINK (doi)**: http://doi.org/10.1080/00952990.2020.1832508
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/DEC/Weerakoon. 2020.pdf
+    - **COMMENT**: Cross-sectional survey suggesting drinkers, particularly those who already binge drink and had prior depression, increased consumption during COVID. Those who spent greater time at home were more likely to report binge drinking. 
+
+
+***
+
+* al. We. Workplace intervention programmes for decreasing alcohol use in military personnel: A systematic review. BMJ Mil Health. 2020.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/DEC/Watterson. 2020.pdf
+    - **COMMENT**:  This review found few experimental or quasi-experimental studies (just 2 in the US) on interventions to reduce alcohol use in MIL populations in the workplace. There were short-term effects in most whereas long-term effects were not significant (this can be said for many, many interventions targeting various BH disorders though). We need more and more rigorous studies. 
+
+
+## November 2020
+
+* Ballreich J, Mansour O, Hu E, et al. Modeling mitigation strategies to reduce opioid-related morbidity and mortality in the us. JAMA Netw Open. 2020;3(11):e2023677.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamanetworkopen.2020.23677
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/NOV/Ballreich. 2020.pdf
+    - **COMMENT**: Simulation study showing that under the status quo, 484, 429 Americans will die by opioid overdose in the next 10 years. Evidence-based strategies (reducing prescribing, naloxone distribution, and treatment expansion) can cut that number substantially. 
+
+
+***
+
+* Bresin K, Mekawi Y. The "why" of drinking matters: A meta-analysis of the association between drinking motives and drinking outcomes. Alcohol Clin Exp Res. 2020.
+
+    - **LINK (doi)**: http://doi.org/10.1111/acer.14518
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/NOV/Bresin. 2020.pdf
+    - **COMMENT**: A meta-analysis of drinking motives trying to unpack which are most strongly associated with use and problems. Coping, enhancement, social, and conformity motives were examined. The results are very detailed  and include direct and indirect effects looking at various pathways contributing to use/problems. Take-home is that motives for drinking are related to use and problems. For more nuanced results, see the paper. 
+
+
+***
+
+* Dunn KE, Brooner RK, Stoller KB. Technology-assisted methadone take-home dosing for dispensing methadone to persons with opioid use disorder during the covid-19 pandemic. Journal of Substance Abuse Treatment. 2020:108197.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.jsat.2020.108197
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/NOV/Dunn. 2020.pdf
+    - **COMMENT**: The methadone treatment system is outdated and in many ways punitive. There are so many other ways to do it more reasonably, like the approach evaluated in this study. 
+
+
+***
+
+* Gargaritano KL, Murphy C, Auyeung AB, et al. Systematic review of clinician-reported barriers to provision of brief advice for alcohol intake in hospital inpatient and emergency settings. Alcohol Clin Exp Res. 2020.
+
+    - **LINK (doi)**: http://doi.org/10.1111/acer.14491
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/NOV/Gargaritano. 2020.pdf
+    - **COMMENT**: Hospitals and EDs are great places to deliver brief interventions for alcohol use, especially because many alcohol-related injuries and conditions are the reasons people are there. However, they aren't always offered. This meta-analysis looked at provider reasons for this and found that a variety of barriers related to capability (e.g., lack of knowledge), opportunity (e.g., lack of time/resources), and motivation (e.g., personal discomfort giving intervention) were given. I wonder how barriers do or do not differ in MIL settings.
+
+
+***
+
+* Graser Y, Stutz S, Rosner S, et al. Telephone- and text message-based continuing care after residential treatment for alcohol use disorder: A randomized clinical multicenter study. Alcohol Clin Exp Res. 2020.
+
+    - **LINK (doi)**: http://doi.org/10.1111/acer.14499
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/NOV/Graser. 2020.pdf
+    - **COMMENT**: Frequent phone and text-based messaging after residential treatment for AUD improved abstinence and delayed relapse in this RCT.
+
+
+***
+
+* Henssler J, Muller M, Carreira H, et al. Controlled drinking - non-abstinent versus abstinent treatment goals in alcohol use disorder: A systematic review, meta-analysis and meta-regression. Addiction. 2020.
+
+    - **LINK (doi)**: http://doi.org/10.1111/add.15329
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/NOV/Henssler. 2020.pdf
+    - **COMMENT**: This meta-analysis compared treatment outcomes (defined as drinking at or below recommended thresholds) between abstinence and non-abstinence AUD treatments. There were no statistically significant differences between the approaches for alcohol or secondary outcomes (social functioning, drinking reduction). There were some sub analyses in which abstinence only was favored (nonrandomized studies, those with lower risk of bias, longer follow up). This study provides some good information but there's still more needed on this topic. 
+
+
+***
+
+* Jackson SE, Garnett C, Shahab L, et al. Association of the covid-19 lockdown with smoking, drinking and attempts to quit in england: An analysis of 2019-20 data. Addiction. 2020.
+
+    - **LINK (doi)**: http://doi.org/10.1111/add.15295
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/NOV/Jackson. 2020.pdf
+    - **COMMENT**: In England, following the lockdown due to COVID, smokers and high-risk drinkers were more likely to report trying to quit or reduce drinking. Despite the increased desire to reduce among high-risk drinkers, overall there was an increase in high-risk drinking in the population.
+
+
+***
+
+* Kelly JF, Greene MC, Abry A. A u.S. National randomized study to guide how best to reduce stigma when describing drug-related impairment in practice and policy. Addiction. 2020.
+
+    - **LINK (doi)**: http://doi.org/10.1111/add.15333
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/NOV/Kelly. 2020.pdf
+    - **COMMENT**: Words are so, so important. This study looked at how different ways of describing opioid-related impairment were evaluated in terms of blame, social exclusion, prognostic optimism, continuing care, and danger. "Chronic relapsing brain disease" was the item that had the lowest stigmatizing-blame but also decreased optimism and increased need for continuing care. Other items assessed were brain disease, disease, illness, disorder, and problem. Problem was associated with higher optimism and decreased danger/exclusion. There's no one "right" way to describe drug impairment but being aware that 1) words matter and 2) your audience/intended effect can be important. 
+
+
+***
+
+* McGill E, Petticrew M, Marks D, et al. Applying a complex systems perspective to alcohol consumption and the prevention of alcohol-related harms in the 21(st) century: A scoping review. Addiction. 2020.
+
+    - **LINK (doi)**: http://doi.org/10.1111/add.15341
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/NOV/McGill. 2020.pdf
+    - **COMMENT**:  Thought this would be a good reference to have on hand about the various systems approaches that have been taken to address alcohol harms. 
+
+
+***
+
+* Palzes VA, Parthasarathy S, Chi FW, et al. Associations between psychiatric disorders and alcohol consumption levels in an adult primary care population. Alcohol Clin Exp Res. 2020.
+
+    - **LINK (doi)**: http://doi.org/10.1111/acer.14477
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/NOV/Palzes. 2020.pdf
+    - **COMMENT**: Patients with psychiatric disorders are less likely to be low-risk/healthy drinkers. Among those who have psychiatric disorders and who drink, individuals with anxiety, depression, and bulimia have riskier drinking patterns. These subpopulations may need additional screening and interventions. 
+
+
+***
+
+* Pardo B KB. Oregon just legalized psychadelic mushrooms: Here's how california can do better. The Sacramento Bee (Newspaper). 2020.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/NOV/Pardo. 2020.pdf
+    - **COMMENT**: Not a peer-reviewed paper but a viewpoint on the recent ballot-driven approval to legalize psilocybin for therapeutic use in Oregon. Recent work is really supporting their therapeutic use but as the authors argue ballot-driven approaches to drug regulation are typically inadequate. In the coming decade, it's likely that psychedelics will be approved by the FDA for some mental health indications. It will be very interesting to see how the VA/DoD responds!
+
+
+***
+
+* Shi Y. Heterogeneities in administration methods among cannabis users by use purpose and state legalization status: Findings from a nationally representative survey in the us, 2020. Addiction. 2020.
+
+    - **LINK (doi)**: http://doi.org/10.1111/add.15342
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/NOV/Shi. 2020.pdf
+    - **COMMENT**: This complements some previous work that looked at use patterns among VA patients. There are major differences in the methods of cannabis consumption between those who use for medical reasons, recreational reasons, or both. States that have both recreational and medical legalization had the lowest rates of combustion but highest rates of ingestion and topical application. 
+
+
+***
+
+* Skrzynski CJ, Creswell KG. A systematic review and meta-analysis on the association between solitary drinking and alcohol problems in adults. Addiction. 2020.
+
+    - **LINK (doi)**: http://doi.org/10.1111/add.15355
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/NOV/Skrzynski. 2020.pdf
+    - **COMMENT**: Prevalence of solitary drinking was 30-40%, with males and non-married individuals drinking alone more often. Solitary drinking has a small, positive association with alcohol problems. 
+
+***
+
+* Mekonen T, Chan GCK, Connor J, et al. Treatment rates for alcohol use disorders: A systematic review and meta-analysis. Addiction. 2020.
+
+    - **LINK (doi)**: http://doi.org/10.1111/add.15357
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/NOV/Tesfa. 2020.pdf
+    - **COMMENT**: About 1 in 6 of people with alcohol abuse, dependence, or use disorders receive treatment. I don't believe that we have a comparison for this in the Army (other than the PHAs, which will under estimate alcohol conditions). 
+
+
+***
+
+* Tucker JA, Chandler SD, Witkiewitz K. Epidemiology of recovery from alcohol use disorder. Alcohol Res. 2020;40(3):02.
+
+    - **LINK (doi)**: http://doi.org/10.35946/arcr.v40.3.02
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/NOV/Tucker. 2020.pdf
+    - **COMMENT**: Short review of the treatment/recovery course of AUD from a life span perspective. Thanks to Anita for sending this one along! 
+
+
+## October 2020
+
+
+* Bendtsen M, McCambridge J, Asberg K, et al. Text messaging interventions for reducing alcohol consumption among risky drinkers: Systematic review and meta-analysis. Addiction. 2020.
+
+    - **LINK (doi)**: http://doi.org/10.1111/add.15294
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/OCT/Bendtsen. 2020.pdf
+    - **COMMENT**: Large review looking at whether text messaging can reduce alcohol consumption. Lots of heterogeneity and low quality of evidence. The size of the reduction is small and imprecisely estimated. However, the authors note that if taken at the population level, even these small reductions could be helpful. 
+
+
+***
+
+* Kelly JF, Abry A, Ferri M, et al. Alcoholics anonymous and 12-step facilitation treatments for alcohol use disorder: A distillation of a 2020 cochrane review for clinicians and policy makers. Alcohol Alcohol. 2020;55(6):641-51.
+
+    - **LINK (doi)**: http://doi.org/10.1093/alcalc/agaa050
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/OCT/Kelly. 2020.pdf
+    - **COMMENT**: Earlier this year, these authors published a Cochrane review showing that AA/TSF interventions were as good if not better than other approaches, like CBT. This paper dives more deeply into those findings and discusses possible treatment mechanisms and policy implications. Full disclosure that I met this initial review with a great deal of skepticism (as I expect many did). This paper provided much needed context and discussion. 
+
+
+***
+
+* Leas EC, Hendrickson EM, Nobles AL, et al. Self-reported cannabidiol (cbd) use for conditions with proven therapies. JAMA Netw Open. 2020;3(10):e2020977.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamanetworkopen.2020.20977
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/OCT/Leas. 2020.pdf
+    - **COMMENT**: An interesting analysis of online testimonials of CBD use, with an emphasis on its use for conditions that have efficacious treatments already. Of note, the most common conditions were psychiatric (64% of all cited). 
+
+
+***
+
+* Matthay EC, Schmidt LA. Home delivery of legal intoxicants in the age of covid-19. Addiction. 2020.
+
+    - **LINK (doi)**: http://doi.org/10.1111/add.15289
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/OCT/Matthay. 2020.pdf
+    - **COMMENT**: A brief commentary on the need for greater understanding of how home delivery of alcohol and drugs (in some locations) is and will change population-level consumption patterns and harms and what policies are needed to reduce these. 
+
+
+***
+
+* Salas J, Norman SB, Tuerk PW, et al. Ptsd improvement and substance use disorder treatment utilization in veterans: Evidence from medical record data. Drug Alcohol Depend. 2020:108365.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.drugalcdep.2020.108365
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/OCT/Salas. 2020.pdf
+    - **COMMENT**: Patients in the VA who had clinically meaningful reductions in PTSD symptoms were more likely to utilize SUD treatment. 
+
+
+***
+
+* Venniro M, Banks ML, Heilig M, et al. Improving translation of animal models of addiction and relapse by reverse translation. Nat Rev Neurosci. 2020;21(11):625-43.
+
+    - **LINK (doi)**: http://doi.org/10.1038/s41583-020-0378-z
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/OCT/Venniro. 2020.pdf
+    - **COMMENT**: Ever wondered how researchers study something many of us see as uniquely human, like addiction? This review papers covers the different models and how they inform human work (forward) and are informed by (reverse) epidemiological/clinical findings of human addiction. 
+
+
+***
+
+* Walsh SL, El-Bassel N, Jackson RD, et al. The healing (helping to end addiction long-term) communities study: Protocol for a cluster randomized trial at the community level to reduce opioid overdose deaths through implementation of an integrated set of evidence-based practices. Drug and Alcohol Dependence. 2020:108335.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.drugalcdep.2020.108335
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/OCT/Walsh. 2020.pdf
+    - **COMMENT**: This paper describes the methods of a massive and important study on reducing opioid overdoses. I haven't heard to what extent COVID has impacted this trial but the opioid epidemic is real and still raging on even though it receives less media attention than COVID. 
+
+
+## September 2020
+
+* Beletsky L, Seymour S, Kang S, et al. Fentanyl panic goes viral: The spread of misinformation about overdose risk from casual contact with fentanyl in mainstream and social media. Int J Drug Policy. 2020;86:102951.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.drugpo.2020.102951
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Beletsky. 2020.pdf
+    - **COMMENT**:  I can't write it any better than the authors! - "Fueled by misinformation, fentanyl panic has harmed public health through complicating overdose rescue while rationalizing hyper-punitive criminal laws, wasteful expenditures, and proposals to curtail vital access to pain pharmacotherapy." This study looks at mainstream and social media to characterize the extent of misinformation on fentanyl overdose via casual contact. 
+
+
+***
+
+* Chesney E, Oliver D, Green A, et al. Adverse effects of cannabidiol: A systematic review and meta-analysis of randomized clinical trials. Neuropsychopharmacology. 2020;45(11):1799-806.
+
+    - **LINK (doi)**: http://doi.org/10.1038/s41386-020-0667-2
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Chesney. 2020.pdf
+    - **COMMENT**:  CBD is well-tolerated in adults with the primary side effect being diarrhea. More data are needed, especially on medication interactions. 
+
+
+***
+
+* Evoy K. RL, Le S., Leonard C.E., Covvey J.R., Ochs L., Peckham A.M., Soprano S.E., Reveles K.R. National outpatient medication utilization for opioid and alcohol use disorders from 2014 to 2016. Journal of Substance Abuse Treatment. 2020;In press(In press):In press.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Evoy. 2020.pdf
+    - **COMMENT**:  A useful reference to have on-hand when comparing medication use rates for alcohol and opioids with CIV populations. 83% of office visits for OUD documented medications whereas only 3.6% for AUD did. Low use of medications for AUD is typical. There's plenty of room to increase their uptake.
+
+
+***
+
+* Freeman TP, Hindocha C, Baio G, et al. Cannabidiol for the treatment of cannabis use disorder: A phase 2a, double-blind, placebo-controlled, randomised, adaptive bayesian trial. Lancet Psychiatry. 2020;7(10):865-74.
+
+    - **LINK (doi)**: http://doi.org/10.1016/S2215-0366(20)30290-X
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Freeman. 2020.pdf
+    - **COMMENT**:  First RCT of CBD for cannabis use disorder. There are currently no FDA approved medications to treat CUD. The results showed two doses were safe and more efficacious than placebo, but the effects were small. Nevertheless, worth a larger trial to see more precise estimates. Cool illustration of a Bayesian adaptive dose-finding trial. 
+
+
+***
+
+* Hu N, Ma Y, He J, et al. Alcohol consumption and incidence of sleep disorder: A systematic review and meta-analysis of cohort studies. Drug Alcohol Depend. 2020;217:108259.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.drugalcdep.2020.108259
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/10.01.2020 - EndNote Test - DO NOT EDIT/Hu. 2020.pdf
+    - **COMMENT**: General drinking but not heavy drinking was associated with increased incidence of sleep disorders. 
+
+
+***
+
+* Tam CC, Zeng C, Li X. Prescription opioid misuse and its correlates among veterans and military in the united states: A systematic literature review. Drug and Alcohol Dependence. 2020;216:108311.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.drugalcdep.2020.108311
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/10.01.2020 - EndNote Test - DO NOT EDIT/Li. 2020.pdf
+    - **COMMENT**: Systematic review of prescription opioid misuse in Veterans and military populations in the US. Includes very few studies on military populations (there aren't many), and integrates findings for Veterans and AC, so it's less useful for our purposes. Still good to have though as a reference. 
+
+
+***
+
+* McDonald DC, Radakrishnan S, Sparks AC, et al. High-risk and long-term opioid prescribing to military spouses in the millennium cohort family study. Mil Med. 2020;185(9-10):e1759-e69.
+
+    - **LINK (doi)**: http://doi.org/10.1093/milmed/usaa146
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/10.01.2020 - EndNote Test - DO NOT EDIT/McDonald. 2020.pdf
+    - **COMMENT**: An interesting study but unsure whether its findings are relevant given how old the data are (2010-2014). From the paper: "Approximately one in 11 military spouses enrolled in the MHS and married to a service member with 2 to 5 years of military experience as of 2011 were estimated to be at risk of adverse events resulting from their opioid prescriptions, either because they received long-term prescriptions, high dosages, or used multiple pharmacies to obtain these drugs."
+
+
+***
+
+* Peters ZJ, Kincaid MW, Greenberg JG, et al. Rates of prescription orders for united states active duty service members diagnosed with alcohol use disorder. Subst Abus. 2020:1-8.
+
+    - **LINK (doi)**: http://doi.org/10.1080/08897077.2020.1809604
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/10.01.2020 - EndNote Test - DO NOT EDIT/Peters. 2020.pdf
+    - **COMMENT**:  Nice to see this kind of study done. They looked at the prevalence of medications for AUD given to those in the year following incident diagnosis of moderate to severe AUD. There's been an increase in AUD medication use but most (84%) still aren't getting any kind of medication. This is also an issue in CIV populations.
+
+
+***
+
+* Singh JA, Cleveland JD. Trends in hospitalizations for alcohol use disorder in the us from 1998 to 2016. JAMA Netw Open. 2020;3(9):e2016580.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamanetworkopen.2020.16580
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/10.01.2020 - EndNote Test - DO NOT EDIT/Singh. 2020.pdf
+    - **COMMENT**:  In the past 2 decades or so, AUD hospitalizations have increased slightly (though their impacts for a slight increase are still substantial) but the death rates have decreased. This paper doesn't say a whole lot more than this but is a good CIV reference on the topic. 
+
+
+***
+
+* Wainwright J. J. ea. Analysis of drug test results before and after the us declaration of a national emergency concerning thecovid-19 outbreak. JAMA. 2020;In press(In press):In press.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/10.01.2020 - EndNote Test - DO NOT EDIT/Wainwright. 2020.pdf
+    - **COMMENT**: Urinalysis outcomes before and during COVID showed increased positivity rates for all drugs tested (cocaine, heroin, fentanyl, and methamphetamine).
+
+
+## August 2020
+
+* Bidwell LC, Ellingson JM, Karoly HC, et al. Association of naturalistic administration of cannabis flower and concentrates with intoxication and impairment. JAMA Psychiatry. 2020.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamapsychiatry.2020.0927
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Bidwell. 2020..pdf
+    - **COMMENT**: Concentrate users had higher plasma THC levels than flower users after using their respective products. Between-subject design that stayed within product types (i.e., flower users used flowers).
+
+
+***
+
+* Carreiro S, Newcomb M, Leach R, et al. Current reporting of usability and impact of mhealth interventions for substance use disorder: A systematic review. Drug Alcohol Depend. 2020;215:108201.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.drugalcdep.2020.108201
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Carreiro. 2020..pdf
+    - **COMMENT**: Just-in-time interventions that use technology to receive and send treatment-related content have a lot of potential for SUDs, though right now they're primarily being used in pilots and in studies that assess initial feasibility. If telehealth continues to grow, these will gain more traction, at least in CIV populations. mHealth interventions for SUDs could be useful for the Army because they improve monitoring and offer more confidentiality than in-person interventions
+
+
+***
+
+* van Egmond K, C JCW, Livingston M, et al. Wearable transdermal alcohol monitors: A systematic review of detection validity, relationship between transdermal and breath alcohol concentration and influencing factors. Alcohol Clin Exp Res. 2020.
+
+    - **LINK (doi)**: http://doi.org/10.1111/acer.14432
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Egmond. 2020..pdf
+    - **COMMENT**: Wearables for alcohol BAC aren't where they need to be for routine use but will get there. This provides a review on the topic. 
+
+
+***
+
+* Esser MB, Sacks JJ, Sherk A, et al. Distribution of drinks consumed by u.S. Adults by average daily alcohol consumption: A comparison of 2 nationwide surveys. Am J Prev Med. 2020.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.amepre.2020.04.018
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Esser. 2020.pdf
+    - **COMMENT**: Estimates of national binge drinking vary substantially by survey design. Perhaps a no-brainer conclusion but a nice reminder for survey design.
+
+
+***
+
+* Fairbairn C.E. KD, & Bosch N. . Using machine learning for real-time bac estimation from a new-generation transdermal biosensor in the laboratory. Drug and Alcohol Dependence. 2020.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.drugalcdep.2020.108205
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Fairbairn. 2020..pdf
+    - **COMMENT**: Monitoring alcohol use is incredibly challenging. New technologies are emerging that are similar to smartwatches and that estimate BAC in real time. This paper uses machine learning techniques to improve estimation. This type of device has been in the works for several years. If improved upon, it could have a huge impact on clinical monitoring and potentially for public health as well. 
+
+
+***
+
+* Gertner AK, Robertson AG, Powell BJ, et al. Primary care providers and specialists deliver comparable buprenorphine treatment quality. Health Aff (Millwood). 2020;39(8):1395-404.
+
+    - **LINK (doi)**: http://doi.org/10.1377/hlthaff.2019.01559
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Gertner. 2020.pdf
+    - **COMMENT**: Primary care providers deliver buprenorphine treatment on par or superior to other providers. This is reassuring. Addressing the opioid epidemic will require considerably more PCPs offering buprenorphine.
+
+
+***
+
+* Glass JE, Williams EC, Oh H. Racial/ethnic discrimination and alcohol use disorder severity among united states adults. Drug Alcohol Depend. 2020;216:108203.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.drugalcdep.2020.108203
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Glass. 2020..pdf
+    - **COMMENT**: Experiencing racial discrimination is a risk factor (cross-section ally) for AUD, regardless of race/ethnicity and poverty status. 
+
+
+***
+
+* Jones CM, Noonan RK, Compton WM. Prevalence and correlates of ever having a substance use problem and substance use recovery status among adults in the united states, 2018. Drug Alcohol Depend. 2020;214:108169.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.drugalcdep.2020.108169
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Jones. 2020..pdf
+    - **COMMENT**:  More than 1 in 10 reported a substance use problem. Of those, 3/4ths were in recovery. Having a BH disorder is common in general among those with substance use problems and even higher among those in recovery.
+
+
+***
+
+* Neufeld M, Lachenmeier DW, Ferreira-Borges C, et al. Is alcohol an "essential good" during covid-19? Yes, but only as a disinfectant! Alcohol Clin Exp Res. 2020.
+
+    - **LINK (doi)**: http://doi.org/10.1111/acer.14417
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Neufeld. 2020..pdf
+    - **COMMENT**: Countries have implemented a range of alcohol-related policies in response to COVID-19. These authors caution that some policies may have unintended and negative effects. 
+
+
+***
+
+* Pennington DL, Bielenberg J, Lasher B, et al. A randomized pilot trial of topiramate for alcohol use disorder in veterans with traumatic brain injury: Effects on alcohol use, cognition, and post-concussive symptoms. Drug Alcohol Depend. 2020;214:108149.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.drugalcdep.2020.108149
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Pennington. 2020..pdf
+    - **COMMENT**: Always cool to see pilots like this addressing two important and close-knit conditions. Issue with interpreting the findings (e.g., conclusions differed based in ITT vs. PP analysis) but will be curious what they find if they do a full trial (which I'm guessing they will)
+
+
+***
+
+* Self AR, Oetting AA, Clausen SS, et al. Alcohol-related emergency department visits, hospitalizations, and co-occurring injuries, active component, U.S. Armed forces, 2009-2018. MSMR. 2020;27(7):7-14.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Self. 2020..pdf
+    - **COMMENT**: Army had the highest rates of ED visits and hospitalizations across all years studied. Rates have decreased for those <30 but increased for those >30. Some interesting figures show the potential impacts of OIF/OEF, with spikes in 2011-2013. Since 2015, rates have been higher in those without previous deployments. Roughly 1 in 6 alcohol-related encounters also had an injury. Assault and self-harm related injuries involving alcohol have declined. 
+
+
+***
+
+* Beetham T, Saloner B, Gaye M, et al. Therapies offered at residential addiction treatment programs in the united states. JAMA. 2020;324(8):804-6.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jama.2020.8969
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Beetham. 2020..pdf
+    - **COMMENT**: Less than one-third of residential facilities in a nationwide survey provide the standard of care for opioid use disorder (maintenance therapy). Imagine if this was true for other disorders!
+

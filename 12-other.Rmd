@@ -1,0 +1,396 @@
+# Other {#other}
+
+## May 2021
+
+* Bisson JI, Wright LA, Jones KA, et al. Preventing the onset of post traumatic stress disorder. Clin Psychol Rev. 2021;86:102004.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.cpr.2021.102004
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_05/Bisson. 2021.pdf
+    - **COMMENT**: Review of interventions for preventing PTSD. The authors note there's not much out there on this topic and that more is needed. The most promising data are for intervening with trauma-focused CBT among those diagnosed with acute stress. Important implications not only for deployment-related experiences but also ACEs and military sexual assault.
+
+
+***
+
+* DOD. Department of defense annual report on sexual assault in the military: Fiscal year 2020. 2021.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_05/DOD. 2021.pdf
+    - **COMMENT**: DOD report on sexual assault for 2020. The full and service-specific reports are available from SAPRO. 
+
+
+***
+
+* Givens. Deconstructing inequities: Transparent values in measurement and analytic choices. N Engl J Med. 2021.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_05/Givens. 2021.pdf
+    - **COMMENT**: Commentary on measurement and analysis decisions as more and more organizations seek to understand and address racism and public health. 
+
+
+***
+
+* McNamara. "Even if the policy changes, the culture remains the same": A mixed methods analysis of lgbt service members' outness patterns. Armed Forces & Society. 2021;47(3):505-29.
+
+    - **LINK (doi)**: http://doi.org/10.1177/0095327X20952136
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_05/McNamara. 2021.pdf
+    - **COMMENT**: Survey and interview data from LGBT service members about their outness practices. Factors associated with being out were identified as were themes from qualitative data. 
+
+
+***
+
+* Vinson SY, Dennis AL. Systemic, racial justice-informed solutions to shift "care" from the criminal legal system to the mental health care system. Psychiatr Serv. 2021:appips202000735.
+
+    - **LINK (doi)**: http://doi.org/10.1176/appi.ps.202000735
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_05/Vinson. 2021.pdf
+    - **COMMENT**: A bit outside of what we do but wanted to share. From the abstract, "Black and Brown people make up more than half of those incarcerated in the United States (despite comprising just 32% of the total population). In the absence of an intersectional, antiracist, structurally informed approach, any attempt by the mental health care system to stem the overrepresentation of people with serious mental illness in the criminal legal system will fail. This article provides an overview of the current mental health care system’s shortcomings in serving this population. It proposes concrete steps to address these shortcomings, with a special focus on race and social determinants of health."
+
+
+***
+
+* Williams MA, Reddy G, Quinn MJ, et al. Toxicological assessment of electronic cigarette vaping: An emerging threat to force health, readiness and resilience in the u.S. Army. Drug Chem Toxicol. 2021:1-37.
+
+    - **LINK (doi)**: http://doi.org/10.1080/01480545.2021.1905657
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_05/Williams. 2021.pdf
+    - **COMMENT**: We don't do work related to tobacco but wanted to share this review of e-cigs as they relate to the Army. Authors are from the APHC. 
+
+
+***
+
+* Williams DR, Etkins OS. Racism and mental health. World Psychiatry. 2021;20(2):194-5.
+
+    - **LINK (doi)**: http://doi.org/10.1002/wps.20845
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_05/Williams. 2021b.pdf
+    - **COMMENT**:  Short commenary reviewing the impacts of racism on mental health and suggesting some ways to move the field forward (i.e., away from documenting the risk and to designing interventions to prevent/mitigate it)
+
+
+***
+
+* Stein DJ, Palk AC, Kendler KS. What is a mental disorder? An exemplar-focused approach. Psychol Med. 2021;51(6):894-901.
+
+    - **LINK (doi)**: http://doi.org/10.1017/S0033291721001185
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_05/New folder/Stein. 2021.pdf
+    - **COMMENT**:  Discussion and examples on what we mean by mental disorders. Focusing on harms, dysfunction, and their interaction. 
+
+
+## April 2021
+
+* C F. Perceived retaliation against military sexual assault victims. 2021.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_04/Farris. 2021..pdf
+    - **COMMENT**:  A short RAND report on perceived retalitation after sexual assaults. Report found that this isn't measured for those who do not file sexual assaults, which is a gap. They report on some factors associated with perceived retaliation. This is an important area for future work. 
+
+
+***
+
+* Grabovac I, Oberndorfer M, Fischer J, et al. Effectiveness of electronic cigarettes in smoking cessation: A systematic review and meta-analysis. Nicotine Tob Res. 2021;23(4):625-34.
+
+    - **LINK (doi)**: http://doi.org/10.1093/ntr/ntaa181
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_04/Grabovac. 2021.pdf
+    - **COMMENT**: I know we traditionally do not do work on tobacco but wanted to share this large review and meta-analysis that found e-cigs were an effective smoking cessation tool. 
+
+
+## March 2021
+
+* KE B. Ensuring that lgbtqi+ people count - collecting data on sexual orientation, gender identiy, and intersex status. N Engl J Med. 2021;384(13):1184-6.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_03/Baker. 2021.pdf
+    - **COMMENT**:  Commentary on why measuring this is important for policy and health improvement among these populations.  
+
+
+***
+
+* IA G. Victors: A conceptual framework for implementing and measuring military spiritual fitness. mil Behav Health. 2021.
+
+    - **LINK (doi)**: http://doi.org/10.1080/21635781.2021.1895922
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_03/Gutierrez. 2021.pdf
+    - **COMMENT**:  I always struggled to conceptualize what or how spiritual fitness was measured and influenced. This paper offers one conceptualization of spiritual fitness. 
+
+
+***
+
+* Garvey Wilson AL, O'Gallagher KG, Liu X, et al. Demographic, behavioral, and proximal risk factors for gambling disorder in the us military. Am J Addict. 2021.
+
+    - **LINK (doi)**: http://doi.org/10.1111/ajad.13137
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_03/Wilson. 2021.pdf
+    - **COMMENT**:  PHCoE study that estimates gambling disorder prevalence (10-year prevalence was 6.6 per 100k) and reports risk factors (male, older age, asian/black race, divorced, enlisted rank, substance use/bh disorder, proximity to gambling venue)
+
+
+## February 2021
+
+* A F. The reporting of race and ethnicity in medical and science journals. JAMA. 2021.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_02/Flanagin. 2021.pdf
+    - **COMMENT**:  AMA guidelines and details on reporting and discussing race and ethnicity. May be useful as we continue to report and do work in this area. 
+
+
+***
+
+* F M. Food insecurity is associated with mental health problems among canadian youth. J Epidemiol Community Health. 2021.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_02/Men. 2021.pdf
+    - **COMMENT**:  Food insecurity negative impacts children's mental health. This study looks at this in a large Canadian sample. No reason not to expect that the food insecurity that's been documented in the Army is impacting their dependents as well. Certainly something that needs attention!
+
+
+***
+
+* AR M. Effects of sexual assault and sexual harassment on separation from the us military. 2021.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_02/Morral. 2021.pdf
+    - **COMMENT**:  The data are a little dated but this report covers in great detail what the title states. Timely given the SECDEF IRC!
+
+
+***
+
+* Navy. Task force one navy. 2021.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_02/Navy TF1N.PDF
+    - **COMMENT**:  DEI-related report put out by the Navy. Long and detailed. i still have not seen anything comparable come out from the Navy but they and the AF have both put out reports like these in the past year or so.
+
+
+***
+
+* EC W. The behavioral health of minority active duty service members. 2021.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_02/Wong. 2021.pdf
+    - **COMMENT**:  Long report on behavioral health disparities among minority service members. Given recent work on this, highly recommend. The data come from the HRBS. Worth looking at for the literature review alone. RAND has had some very important and timely papers come out lately on topics related to BSHOP!
+
+
+## January 2021
+
+* Doubeni CA, Simon M, Krist AH. Addressing systemic racism through clinical preventive service recommendations from the US preventive services task force. JAMA. 2021.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jama.2020.26188
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/JAN/Doubeni. 2021.pdf
+    - **COMMENT**: The US Preventive Services Task Force published a viewpoint highlighting the steps they plan to take on reducing systematic racism. Wonder if similar actions would be taken for DOD/VA treatment guidelines or similar documents?
+
+
+***
+
+* Jellestad L, Vital NA, Malamud J, et al. Functional impairment in posttraumatic stress disorder: A systematic review and meta-analysis. J Psychiatr Res. 2021;136:14-22.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.jpsychires.2021.01.039
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/JAN/Jellestad. 2021.pdf
+    - **COMMENT**:  I think we all know that PTSD is incredibly impairing but this paper presents a meta-analysis showing the extent and type of associated impairments.
+
+
+***
+
+* Leza L, Siria S, López-Goñi JJ, et al. Adverse childhood experiences (aces) and substance use disorder (sud): A scoping review. Drug and Alcohol Dependence. 2021;221:108563.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.drugalcdep.2021.108563
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/JAN/Leza. 2021.pdf
+    - **COMMENT**: We know ACEs are highly prevalent among individuals with SUDs. This scoping review notes a few gaps (e.g., standardizing measures, clarifying mechanism explaining risk) but I pulled it primarily for the reference list should we need to dive into this topic at some point. 
+
+
+***
+
+* Massaquoi MA, Reese TR, Barrett J, et al. Perceptions of gender and race equality in leadership and advancement among military family physicians. Mil Med. 2021;186(Suppl 1):762-6.
+
+    - **LINK (doi)**: http://doi.org/10.1093/milmed/usaa387
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/JAN/Massaquoi. 2021.pdf
+    - **COMMENT**: Survey data from a 2016 MIL medical meeting show that minority family physicians were less likely to be chief residents or have leadership positions versus White peers. Females were more likely to believe that sex played a role in leadership role assignment. Highlights what are likely racial gaps in medical assignments in the MHS, consistent with racial disparities documented in other areas of the MIL. 
+
+
+***
+
+* Towe VL, May LW, Huang W, et al. Drivers of differential views of health equity in the u.S.: Is the u.S. Ready to make progress? Results from the 2018 national survey of health attitudes. BMC Public Health. 2021;21(1):175.
+
+    - **LINK (doi)**: http://doi.org/10.1186/s12889-021-10179-z
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/JAN/Towe. 2021..pdf
+    - **COMMENT**:  Very interesting paper on American attitudes about social determinants of health and health equity. Highly recommend for anyone working on the SDOH projects. From the paper, "our research shows that the dominant narrative about drivers of health and health equity is powerful and resistant to change: Most Americans believe that health is predominantly influenced by individual behaviors and access to health care, as opposed to structural and social factors, and health equity is not a widespread priority... Americans surveyed in 2018 still lack knowledge about the social determinants of health or the role of community on health outcomes"
+
+
+## December 2020
+
+* D M. How structural racism works - racist policies as a root cause of us racial health inequities. New England Journal of Medicine. 2020.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/DEC/Bailey. 2020.pdf
+    - **COMMENT**:  Commentary in major medical journal on racism and health inequity.
+
+
+***
+
+* Jordan A, Allsop AZAS, Collins PY. Decriminalising being black with mental illness. The Lancet Psychiatry. 2021;8(1):8-9.
+
+    - **LINK (doi)**: http://doi.org/10.1016/s2215-0366(20)30519-8
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/DEC/Jordan. 2020.pdf
+    - **COMMENT**:  A very brief commentary that explores the intersections of race, mental illness, and law enforcement systems. 
+
+
+***
+
+* Kawachi I. Invited commentary: Religion as a social determinant of health. Am J Epidemiol. 2020;189(12):1461-3.
+
+    - **LINK (doi)**: http://doi.org/10.1093/aje/kwz204
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/DEC/Kawachi. 2020.pdf
+    - **COMMENT**:  This title caught my eye. I don't often think of religion as a social determinant of health but the opening sentence in this paper clearly illustrates how it can impact health (e.g., smoking abstinence, promoting social connections). This is a     - **COMMENT**: ary on another paper that explored religion's impacts on adolescent health but wanted to share as food for thought and perhaps something to consider as we continue work on social determinants.
+
+
+***
+
+* Kelber MS, Liu X, O'Gallagher K, et al. Women in combat: The effects of combat exposure and gender on the incidence and persistence of posttraumatic stress disorder diagnosis. J Psychiatr Res. 2020;133:16-22.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.jpsychires.2020.12.010
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/DEC/Kelber. 2020.pdf
+    - **COMMENT**:  PHCOE work. Analyses the impacts of deployment on PTSD and gender-specific differences on development and progression of PTSD. Some noteworthy findings were that PTSD was less likely to develop after combat for women vs. men (suggesting women have different forms of PTSD trauma) and that men were more likely to have persistent PTSD than women. Very interesting and well-done design/study.  
+
+
+***
+
+* McCabe SE, Hughes TL, West BT, et al. Sexual orientation, adverse childhood experiences, and comorbid dsm-5 substance use and mental health disorders. J Clin Psychiatry. 2020;81(6).
+
+    - **LINK (doi)**: http://doi.org/10.4088/JCP.20m13291
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/DEC/McCabe. 2020.pdf
+    - **COMMENT**: Nationally representative data showing that sexual minorities are exposed to ACEs much more frequently than their heterosexual counterparts and are at increased risk for SUD/BH comorbidities. 
+
+
+***
+
+* Nong P, Raj M, Creary M, et al. Patient-reported experiences of discrimination in the us health care system. JAMA Netw Open. 2020;3(12):e2029650.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamanetworkopen.2020.29650
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/DEC/Nong. 2020.pdf
+    - **COMMENT**: Cross-sectional national survey documenting experiences of discrimination in healthcare settings. About 1 in 5 had experienced discrimination in healthcare settings, most experiencing it repeatedly. The most common forms (in decreasing order) were: race/ethnic, education/income, weight, sex, and age. Females, younger, poorer, and less healthy patients were more likely to experience discrimination in healthcare settings. Would be curious (as with all of this discrimination work) to see how this plays out in the Army.
+
+
+## October 2020
+
+* Fischer SH, Ray KN, Mehrotra A, et al. Prevalence and characteristics of telehealth utilization in the united states. JAMA Netw Open. 2020;3(10):e2022302.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamanetworkopen.2020.22302
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/OCT/Fischer. 2020.pdf
+    - **COMMENT**:  I thought this would be a good one to share because it provides national estimates of telehealth use pre-COVID. I imagine most citations for this one will be as a comparison for how the telehealth landscape has changed now due to COVID. 
+
+
+***
+
+* Directorate AR. Ard october 2020 newsletter. 2020.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/OCT/October ARD_Newsletter_FINAL.pdf
+    - **COMMENT**:  A variety of topics within ARD's purview are discussed in brief in this month's newsletter, including several on SHARP and suicide prevention. 
+
+
+***
+
+* Ormel J, VonKorff M. Reducing common mental disorder prevalence in populations. JAMA Psychiatry. 2020.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamapsychiatry.2020.3443
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/OCT/Ormel. 2020.pdf
+    - **COMMENT**:  Brief commenary on reconceptualizing diagnosis of common mental disorders and how we invest to prevent and improvement treatment. The author suggests we need to 1) embed CMD prevention in major social institutions (e.g., schools, workplace) both politically and culturally, 2) start early and target major determinants of CMDs (e.g., poor parenting skills), and 3) combine universal and indicated approaches.  
+
+
+## September 2020
+
+* Biglan A, Johansson M, Van Ryzin M, et al. Scaling up and scaling out: Consilience and the evolution of more nurturing societies. Clin Psychol Rev. 2020;81:101893.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.cpr.2020.101893
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Biglan. 2020.pdf
+    - **COMMENT**:  Biglan is a "big thinker" and this review article details much of his thoughts (and evidence) around the concept of consilience and how to create healthy/happy societies. He has an interesting book written for general audiences on the topic as well. Military organizations could learn a lot from his work. 
+
+
+***
+
+* Buxbaum JD, Chernew ME, Fendrick AM, et al. Contributions of public health, pharmaceuticals, and other medical care to us life expectancy changes, 1990-2015. Health Aff (Millwood). 2020;39(9):1546-56.
+
+    - **LINK (doi)**: http://doi.org/10.1377/hlthaff.2020.00284
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Buxbaum. 2020.pdf
+    - **COMMENT**:  Not directly related to BH or SH but nevertheless I wanted to share. 44% of the 3.3 years of increased life expectancy in the US between 1990 and 2015 was attributed to public health. Public health had the largest impact (more than pharmaceuticals [35%] and other medical care [13%]
+
+
+***
+
+* Giano Z, Wheeler DL, Hubach RD. The frequencies and disparities of adverse childhood experiences in the u.S. BMC Public Health. 2020;20(1):1327.
+
+    - **LINK (doi)**: http://doi.org/10.1186/s12889-020-09411-z
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Giano. 2020.pdf
+    - **COMMENT**:  National US data on ACEs. More than half have one ACE and ~20% have 3 or more. Women, racial minorities, younger, poorer/less educated, and sexual minorities had greater prevalence of ACEs. A useful reference to keep handy when making any CIV comparisons.
+
+
+***
+
+* Green DC, Holloway IW, Pickering CE, et al. Group perceptions of acceptance of racial/ethnic, sexual and gender minorities in the united states military. Military Behavioral Health. 2020:1-12.
+
+    - **LINK (doi)**: http://doi.org/10.1080/21635781.2020.1819486
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/10.01.2020 - EndNote Test - DO NOT EDIT/Green. 2020.pdf
+    - **COMMENT**:  A cool study that looked at perceived acceptance of minority groups. From the paper, "results show members of minority groups tended to perceive acceptance of both their minority group and other minority groups as lower compared with perceptions of acceptance among majority groups." 
+
+
+***
+
+* Liu JJW, Ein N, Gervasio J, et al. Comprehensive meta-analysis of resilience interventions. Clinical Psychology Review. 2020:101919.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.cpr.2020.101919
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/10.01.2020 - EndNote Test - DO NOT EDIT/Liu. 2020.pdf
+    - **COMMENT**: Resilience is a target for much of the Army's prevention efforts and we've showed its associated with reduced suicidal ideation. This meta-analysis reviewed the evidence for whether interventions can increase resilience. From the paper: "resilience-promoting interventions yielded a small, but statistically significant overall effect, Hedges’s g = 0.48 (SE = 0.04, 95% CI = [0.40, 0.56]. The variability in study effect sizes within and between studies was significant, p < .001, with many falling short of the threshold for practical significance." 
+
+
+***
+
+* SAMHSA. Key substance use and mental health indicators in the united states: Results from the 2019 national survey on drug use and health. 2020.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/10.01.2020 - EndNote Test - DO NOT EDIT/NSDUH.2020..pdf
+    - **COMMENT**: 2019 NSDUH results. As always, a nice overview of recent estimates and trends on topics that we look at (e.g., drug use, suicidal ideation). A good reference to have on-hand.
+
+
+## August 2020
+
+* Adler AB, LeardMann CA, Roenfeldt KA, et al. Magnitude of problematic anger and its predictors in the millennium cohort. BMC Public Health. 2020;20(1):1168.
+
+    - **LINK (doi)**: http://doi.org/10.1186/s12889-020-09206-2
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Adler. 2020.pdf
+    - **COMMENT**:  Problematic anger is pretty common in this cohort and higher in Soldiers, AD, and those previously deployed. Several risk factors remained significant even after controlling for BH, which suggests non-BH targets for intervention
+
+
+***
+
+* Hayes SC, Hofmann SG, Wilson DS. Clinical psychology is an applied evolutionary science. Clin Psychol Rev. 2020;81:101892.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.cpr.2020.101892
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Hayes. 2020..pdf
+    - **COMMENT**:  I don't suspect many will read this but Hayes and others like him have a knack for synthesizing psychology and its practice within larger scientific concepts (like evolution). 
+
+
+***
+
+* Lesko CR, Mumford SL, Molino AR, et al. What happens to your manuscript: Characteristics of papers published in volume 188. Am J Epidemiol. 2020;189(7):627-30.
+
+    - **LINK (doi)**: http://doi.org/10.1093/aje/kwaa076
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Lesko. 2020.pdf
+    - **COMMENT**:  Editorial describing received and accepted papers to Am J Epi. A useful reference if we consider putting in something there.
+
+
+***
+
+* Force USPST, Krist AH, Davidson KW, et al. Behavioral counseling interventions to prevent sexually transmitted infections: Us preventive services task force recommendation statement. JAMA. 2020;324(7):674-81.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jama.2020.13095
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/USPTF. 2020..pdf
+    - **COMMENT**:  Not really in our lane but STIs came up at FWA. Recommendation is that for those at risk, they recommend behavioral counseling (B). 
+
+
+***
+
+* Excellence PHCo. Writing about mental health in the military. 2020.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/PHCoE. 2020 (2) .pdf
+    - **COMMENT**:  A nice overview and reminder for how to de-stigmatize our writing about mental health. I am personally guilty of using words that suggest pity or distress (e.g., individuals *suffering* from AUD). A good reference to keep nearby when reviewing and editing our work!
+
+
+***
+
+* Directorate AR. August 2020 newsletter. 2020.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/ARD. AUG..pdf
+    - **COMMENT**:  A quarterly newsletter from ARD that highlights their work and engagements throughout the Army. 

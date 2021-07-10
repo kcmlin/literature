@@ -1,0 +1,10 @@
+# MHS General {#mhs}
+
+## September 2020
+
+* Blosnich JR, Dichter ME, Gurewich D, et al. Health services research and social determinants of health in the nation's largest integrated health care system: Steps and leaps in the veterans health administration. Mil Med. 2020;185(9-10):e1353-e6.
+
+    - **LINK (doi)**: http://doi.org/10.1093/milmed/usaa067
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Blosnich. 2020.pdf
+    - **COMMENT**: The authors describe recommendations from a recent VHA working group put together to look at social determinants of health and how to address them. Perhaps a useful collaboration, road map, lessons learned for DA efforts in this area.
+

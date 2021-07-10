@@ -1,0 +1,27 @@
+---
+title: "BSHOP BH SH Literature Summary"
+author: "Dr. Brantley Jarvis (Content), Dr. Katherine Schaughency (Website)"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+output:
+  bookdown::gitbook: default
+---
+
+```{r global, include=FALSE, echo=FALSE}
+library(knitr)
+library(bookdown)
+library(lubridate)
+```
+
+# Preface {-}
+
+Please see the following pages for recent publications related to our work during **`r month(Sys.Date(), label=TRUE, abbr=FALSE)` `r year(Sys.Date())`**. Publications are organized by content area and include information to help you determine whether it’s something you’d like to check out. Please keep in mind the following: 
+
+*	I most definitely do _NOT_ read all of these. I do read some but for most I skim them or check out the abstracts only. The comments for each are only intended to give you some context about what’s in a publication and/or why I included it.   
+
+*	I’ve tried my best to include publications that just came out this month but because of delays and settings on journal alerts, some publications below may have been published earlier than December of this year in other formats (e.g., in-press or pre-press proofs). 
+
+*	I do not (thankfully) get email alerts for every journal or article that might be relevant to our work. So, this list is by no means exhaustive. 
+
+*	I’m sure there are errors/typos somewhere. Please let me know if any of the links are broken or you notice something that’s not quite right. I’ll be sure to fix it ASAP! 

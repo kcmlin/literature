@@ -1,0 +1,82 @@
+# Occupational {#occupational}
+
+## April 2021
+
+* A B. Improving officer-soldier communication through active listening skills training with army rotc cadets. Military Psychology. 2021.
+
+    - **LINK (doi)**: http://doi.org/10.1080/08995605.2021.1902179
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_04/Bjornestad. 2021.pdf
+    - **COMMENT**:  Study documenting benefits of using active listening training for officer communication. Would love to see something like this implemented more broadly. 
+
+
+## March 2021
+
+* TL S. The relationship between sexual assault and sexual harassment in the us military. 2021.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_03/Schell. 2021.pdf
+    - **COMMENT**: RAND report looking at the relationship between SA and SH. Ambient sexual harassment is a strong predictor of sexual assault risk. They hypothesize: "both sexual assault and sexual harassment are manifestations of the same underlying workplace disorder... [that produce] a workplace culture...in which abuse of colleagues becomes expected as a natural or permitted occurrence"
+
+
+## February 2021
+
+* IA G. Resilience training efficacy by instructor specialization: A program evaluation with army recruits. Mil Behav Health. 2021.
+
+    - **LINK (doi)**: http://doi.org/10.1080/21635781.2021.1876799
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/2021_02/Gutierrez. 2021.pdf
+    - **COMMENT**:  Study compared resilience training by specialists and by drill sergeants at BCT. Soldiers preferred specialists but those who received training from drill sergeants had improved knowledge/perceived skills. An interesting area and topic to consider, yet what I long to know is whether these resilience trainings move the needle at all on meaningful outcomes they intend to target. 
+
+
+## January 2021
+
+* Campbell MS, O'Gallagher K, Smolenski DJ, et al. Longitudinal relationship of combat exposure with mental health diagnoses in the military health system. Mil Med. 2021;186(Suppl 1):160-6.
+
+    - **LINK (doi)**: http://doi.org/10.1093/milmed/usaa301
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/JAN/Campbell. 2021.pdf
+    - **COMMENT**:  PHCOE's recent publication on the association between combat exposure and BH diagnoses (top 5 associated with MNR). 3 groups: combat exposed, deployed but no combat exposure, and not deployed. BH diagnoses showed the following relationship between groups: combat exposed > no combat exposure > not deployed. Failure proportions (those who had any BH diagnosis) in these groups were 1/3, 1/4, and 1/5. Great reference to have on hand re: deployment and BH! 
+
+
+## December 2020
+
+* Bianchi R, Schonfeld IS. The occupational depression inventory: A new tool for clinicians and epidemiologists. J Psychosom Res. 2020;138:110249.
+
+    - **LINK (doi)**: http://doi.org/10.1016/j.jpsychores.2020.110249
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/DEC/Bianchi. 2020.pdf
+    - **COMMENT**:  This paper describes development and psychometric properties of a scale that measures work-attributed depressive symptoms. I thought the idea was relevant for our populations, which I think definitely have work-related stressors and possibly symptoms related to depression or other BH diagnoses. 
+
+
+***
+
+* Stuart J, Szeszeran N. Bullying in the military: A review of the research on predictors and outcomes of bullying victimization and perpetration. Military Behavioral Health. 2020:1-12.
+
+    - **LINK (doi)**: http://doi.org/10.1080/21635781.2020.1864527
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/DEC/Stuart. 2020.pdf
+    - **COMMENT**:  Narrative review on bullying within the military. Not something we've looked into specifically, I don't think but certainly happens and impacts BH! 
+
+
+## September 2020
+
+* Bartone P.T. BSV. Coping with recruiter stress: Hardiness, performance and well-being in us army
+recruiters. Military Psychology. 2020;In press(In press):In press.
+
+    - **LINK (doi)**: 
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Bartone. 2020.pdf
+    - **COMMENT**:  This study shows that greater hardiness (a kind of resilience factor, admittedly a "fuzzy" construct) is associated with higher well-being and supervisor-rated work performance among Army recruiters. Hardiness measures could be included as screening criteria to reduce the impact of occupational stress for this MOS.
+
+
+## August 2020
+
+* Brown T.A. RKL, Key-Roberts M.J., Simmons M.J., Toumbeva T.H., Nishii L.H. Contextualizing inclusion: Developing a framework and measure for a military context. Military Psychology. 2020.
+
+    - **LINK (doi)**: http://doi.org/10.1080/08995605.2020.1754147
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Brown. 2020.pdf
+    - **COMMENT**:  Mixed method study that looked how to define and measure inclusion in a military context. Super relevant to EPICON work. Measure may be worth testing out in future EPICONs. Its two dimensions that emerged are in line with what we see and hear in EPICONs that relate to inclusion/cohesion (horizontal social inclusion and vertical information inclusion)
+
+
+***
+
+* Duchaine CS, Aube K, Gilbert-Ouimet M, et al. Psychosocial stressors at work and the risk of sickness absence due to a diagnosed mental disorder: A systematic review and meta-analysis. JAMA Psychiatry. 2020.
+
+    - **LINK (doi)**: http://doi.org/10.1001/jamapsychiatry.2020.0322
+    - **FILE PATH**: P:/CPHE/DEDS/BSHOP/Shared/BH and SH literature/Resources/Duchaine. 2020..pdf
+    - **COMMENT**:  Workers who experience work-related stress are more likely to have mental-disorder related sick leave used from work. I pulled this because it's another way to characterize BH impacts on readiness. 
