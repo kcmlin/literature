@@ -1,5 +1,5 @@
 ---
-title: "BSHOP BH SH Literature Summary"
+title: "BH SH Literature Summary"
 author: "Dr. Brantley Jarvis (Content), Dr. Katherine Schaughency (Website)"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
