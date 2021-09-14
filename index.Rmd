@@ -1,7 +1,7 @@
 ---
 title: "BH SH Literature Summary"
 author: "Dr. Brantley Jarvis (Content), Dr. Katherine Schaughency (Website)"
-date: "`r Sys.Date()`"
+date: "2021-07-09"
 site: bookdown::bookdown_site
 documentclass: book
 output:
@@ -16,7 +16,7 @@ library(lubridate)
 
 # Preface {-}
 
-Please see the following pages for recent publications related to our work during **`r month(Sys.Date(), label=TRUE, abbr=FALSE)` `r year(Sys.Date())`**. Publications are organized by content area and include information to help you determine whether it’s something you’d like to check out. Please keep in mind the following: 
+Please see the following pages for recent publications related to our work during **July 2021**. Publications are organized by content area and include information to help you determine whether it’s something you’d like to check out. Please keep in mind the following: 
 
 *	I most definitely do _NOT_ read all of these. I do read some but for most I skim them or check out the abstracts only. The comments for each are only intended to give you some context about what’s in a publication and/or why I included it.   
 
